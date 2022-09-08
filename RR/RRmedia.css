@@ -1,0 +1,898 @@
+ 
+
+  @media screen and (max-width: 1050px)
+     {
+      .navbar-nav
+      {
+        font-size: 12px;
+      
+      }
+        .plan
+         {
+          height: 500px;
+          margin-top: 10px;
+          padding: 80px 80px;
+         }
+         .plan .black
+         {
+          height: 300px;
+          width: 300px;
+          background:rgba(0, 0, 0, 0.5);   
+         }
+         .black .black1
+         {
+          font-size: 20px;
+          padding:60px 0px 10px 60px ;
+         
+         }
+          .black .black2
+         {
+          font-size: 15px;
+            padding: 20px 40px 10px 60px ;
+         }
+          .black .black3
+         {
+          height: 40px;
+          width: 130px;
+          font-size: 12px;
+          padding: 50px ;
+            padding: 13px 0px 10px 15px ;
+            margin-left: 60px;
+            margin-top: 30px;
+         }
+         .part
+         {
+          height:300px;
+         display: flex;
+         flex-direction: column;
+         }
+           .pa3 .pa5 
+          {
+            margin-left: 0px;
+          }
+             .pa23 .pa25 
+          {
+            margin-left: 0px;
+          }
+           .pa13 .pa15 
+          { 
+            margin-left: 0px;
+          }
+           .pa43 .pa45 
+          {
+            margin-left: 0px;
+          }
+          .section
+         {  
+          height: 700px;
+            display: flex;
+         flex-direction: column;
+         margin: 1150px 0px 0px 0px;
+         }
+         .s1 .s12
+         {
+          height: 250px;
+          width: 100%;
+          font-size: 13px;
+          padding: 20px;
+          margin-bottom: 50px;
+         }
+        
+         .meet
+         {
+          height: 50px;
+          text-align: center;
+          font-size: 50px;
+          margin-top: 550px;
+         }
+           .expert
+         {  
+          height: 200px;
+          display: flex;
+         flex-direction: column;
+          margin: 30px 10px 0px 10px;
+         
+         }
+          .expert .expert2
+         {
+          border: 0.5px solid black;
+          margin-top: 10px;
+          margin-left: 0px;
+          display: flex;
+         }
+           .expert0
+         {  
+          height: 200px;
+          display:flex;
+          flex-direction: column;
+          margin: 360px 10px 0px 10px;
+            
+         }
+          .expert0 .expert4
+          {
+          margin-top: 10px;
+          margin-left: 0px;
+         }
+          .side
+         {
+          height: 550px;
+         display: flex;
+         flex-direction: column;
+          margin:380px 30px 30px 30px;
+         }
+          .side1
+         {
+          height: 300px;
+         background: hotpink;
+         padding: 30px;
+         font-size: 13px;
+         color: white;
+         }
+          .side2
+         {
+          height: 250px;
+         }
+          .pc 
+         {
+           font-size: 30px;
+           text-align: center;
+           margin-top:10px;
+           margin-bottom: 20px;
+         }
+         .we 
+         {
+           font-size: 12px;
+           text-align: center;
+           margin-bottom: 10px;
+         }
+         .and
+         {
+           font-size: 12px;
+           text-align: center;
+         }
+
+         .pic 
+         {
+          height: 900px;
+          display:flex;
+         flex-direction: column;
+          margin:30px 0px 0px 20px;
+          
+         }
+          .pic1
+         {
+          height: 300px;
+          width: 100%;
+           font-size: 30px;
+           padding: 30px 30px;
+           margin-bottom: 10px;
+         }
+           .pic2
+         {
+          height: 300px; 
+          width: 100%;
+            font-size: 30px;
+           padding: 30px 30px;
+            margin-bottom: 10px;
+         }
+         .pic3
+         {
+          height: 300px;
+          width: 100%;
+           font-size: 30px;
+           padding: 30px 30px;
+         }
+           .spic 
+         {
+          height: 300px;
+          width: 90%;
+           display:flex;
+         flex-direction: column;
+          margin:20px 0px 0px 30px;
+          
+         }
+         .spic1
+         { 
+          height: 300px;
+           
+         font-size: 30px;
+           padding: 30px 30px;
+         }
+
+         .last
+         {
+          height: 1100px;
+          display:flex;
+         flex-direction: column;
+          margin-top: 30px;
+          background: blue;
+
+         }
+      }
+
+  @media screen and (max-width: 950px)
+     {
+      .navbar-nav
+      {
+        font-size: 12px;
+      
+      }
+    }
+
+
+
+  @media screen and (max-width: 850px)
+     {
+      .navbar-nav
+      {
+        font-size: 10px;
+      
+      }
+    }
+
+  @media screen and (max-width: 750px)
+     {
+      .navbar-nav
+      {
+        font-size: 9px;
+      
+      }
+    }
+
+
+
+
+
+
+
+
+
+
+
+ @media screen and (max-width: 700px)
+     {
+      .navbar-nav
+      {
+        font-size: 8px;
+       
+      }
+    }
+  @media screen and (max-width: 650px)
+     {
+      .navbar-nav
+      {
+        font-size: 7px;
+       
+      }
+    }
+
+
+
+
+
+ @media screen and (max-width: 600px)
+     {
+      .navbar-nav
+      {
+        font-size: 6.5px;
+       
+      }
+        .plan
+         {
+          height: 500px;
+          margin-top: 10px;
+          padding: 80px 80px;
+         }
+         .plan .black
+         {
+          height: 300px;
+          width: 300px;
+          background:rgba(0, 0, 0, 0.5);   
+         }
+         .black .black1
+         {
+          font-size: 20px;
+          padding:60px 0px 10px 60px ;
+         
+         }
+          .black .black2
+         {
+          font-size: 15px;
+            padding: 20px 40px 10px 60px ;
+         }
+          .black .black3
+         {
+          height: 40px;
+          width: 130px;
+          font-size: 12px;
+          padding: 50px ;
+            padding: 13px 0px 10px 15px ;
+            margin-left: 60px;
+            margin-top: 30px;
+         }
+         .part
+         {
+          height:300px;
+         display: flex;
+         flex-direction: column;
+         }
+           .pa3 .pa5 
+          {
+            margin-left: 250px;
+          }
+             .pa23 .pa25 
+          {
+            margin-left: 250px;
+          }
+           .pa13 .pa15 
+          { 
+            margin-left: 250px;
+          }
+           .pa43 .pa45 
+          {
+            margin-left: 250px;
+          }
+          .section
+         {  
+          height: 700px;
+            display: flex;
+         flex-direction: column;
+         margin: 1150px 0px 0px 0px;
+         }
+         .s1 .s12
+         {
+          height: 250px;
+          width: 100%;
+          font-size: 13px;
+          padding: 20px;
+          margin-bottom: 50px;
+         }
+        
+         .meet
+         {
+          height: 50px;
+          text-align: center;
+          font-size: 50px;
+          margin-top: 550px;
+         }
+           .expert
+         {  
+          height: 200px;
+          display: flex;
+         flex-direction: column;
+          margin: 30px 10px 0px 10px;
+         
+         }
+          .expert .expert2
+         {
+          border: 0.5px solid black;
+          margin-top: 10px;
+          margin-left: 0px;
+          display: flex;
+         }
+           .expert0
+         {  
+          height: 200px;
+          display:flex;
+          flex-direction: column;
+          margin: 360px 10px 0px 10px;
+            
+         }
+          .expert0 .expert4
+          {
+          margin-top: 10px;
+          margin-left: 0px;
+         }
+          .side
+         {
+          height: 550px;
+         display: flex;
+         flex-direction: column;
+          margin:380px 30px 30px 30px;
+         }
+          .side1
+         {
+          height: 300px;
+         background: hotpink;
+         padding: 30px;
+         font-size: 13px;
+         color: white;
+         }
+          .side2
+         {
+          height: 250px;
+         }
+          .pc 
+         {
+           font-size: 30px;
+           text-align: center;
+           margin-top:10px;
+           margin-bottom: 20px;
+         }
+         .we 
+         {
+           font-size: 12px;
+           text-align: center;
+           margin-bottom: 10px;
+         }
+         .and
+         {
+           font-size: 12px;
+           text-align: center;
+         }
+
+         .pic 
+         {
+          height: 900px;
+          display:flex;
+         flex-direction: column;
+          margin:30px 0px 0px 20px;
+          
+         }
+          .pic1
+         {
+          height: 300px;
+          width: 100%;
+           font-size: 30px;
+           padding: 30px 30px;
+           margin-bottom: 10px;
+         }
+           .pic2
+         {
+          height: 300px; 
+          width: 100%;
+            font-size: 30px;
+           padding: 30px 30px;
+            margin-bottom: 10px;
+         }
+         .pic3
+         {
+          height: 300px;
+          width: 100%;
+           font-size: 30px;
+           padding: 30px 30px;
+         }
+           .spic 
+         {
+          height: 300px;
+          width: 90%;
+           display:flex;
+         flex-direction: column;
+          margin:20px 0px 0px 30px;
+          
+         }
+         .spic1
+         { 
+          height: 300px;
+           
+         font-size: 30px;
+           padding: 30px 30px;
+         }
+
+         .last
+         {
+          height: 1100px;
+          display:flex;
+         flex-direction: column;
+          margin-top: 30px;
+          background: blue;
+
+         }
+} 
+
+
+
+ @media screen and (max-width: 590px)
+     {
+      .navbar-nav
+      {
+        font-size: 20px;
+       
+      }
+        .plan
+         {
+          height: 500px;
+          margin-top: 10px;
+          padding: 80px 80px;
+         }
+         .plan .black
+         {
+          height: 300px;
+          width: 300px;
+          background:rgba(0, 0, 0, 0.5);   
+         }
+         .black .black1
+         {
+          font-size: 20px;
+          padding:60px 0px 10px 60px ;
+         
+         }
+          .black .black2
+         {
+          font-size: 15px;
+            padding: 20px 40px 10px 60px ;
+         }
+          .black .black3
+         {
+          height: 40px;
+          width: 130px;
+          font-size: 12px;
+          padding: 50px ;
+            padding: 13px 0px 10px 15px ;
+            margin-left: 60px;
+            margin-top: 30px;
+         }
+         .part
+         {
+          height:300px;
+         display: flex;
+         flex-direction: column;
+         }
+           .pa3 .pa5 
+          {
+            margin-left: 250px;
+          }
+             .pa23 .pa25 
+          {
+            margin-left: 250px;
+          }
+           .pa13 .pa15 
+          { 
+            margin-left: 250px;
+          }
+           .pa43 .pa45 
+          {
+            margin-left: 250px;
+          }
+          .section
+         {  
+          height: 700px;
+            display: flex;
+         flex-direction: column;
+         margin: 1150px 0px 0px 0px;
+         }
+         .s1 .s12
+         {
+          height: 250px;
+          width: 100%;
+          font-size: 13px;
+          padding: 20px;
+          margin-bottom: 50px;
+         }
+        
+         .meet
+         {
+          height: 50px;
+          text-align: center;
+          font-size: 50px;
+          margin-top: 550px;
+         }
+           .expert
+         {  
+          height: 200px;
+          display: flex;
+         flex-direction: column;
+          margin: 30px 10px 0px 10px;
+         
+         }
+          .expert .expert2
+         {
+          border: 0.5px solid black;
+          margin-top: 10px;
+          margin-left: 0px;
+          display: flex;
+         }
+           .expert0
+         {  
+          height: 200px;
+          display:flex;
+          flex-direction: column;
+          margin: 360px 10px 0px 10px;
+            
+         }
+          .expert0 .expert4
+          {
+          margin-top: 10px;
+          margin-left: 0px;
+         }
+          .side
+         {
+          height: 550px;
+         display: flex;
+         flex-direction: column;
+          margin:380px 30px 30px 30px;
+         }
+          .side1
+         {
+          height: 300px;
+         background: hotpink;
+         padding: 30px;
+         font-size: 13px;
+         color: white;
+         }
+          .side2
+         {
+          height: 250px;
+         }
+          .pc 
+         {
+           font-size: 30px;
+           text-align: center;
+           margin-top:10px;
+           margin-bottom: 20px;
+         }
+         .we 
+         {
+           font-size: 12px;
+           text-align: center;
+           margin-bottom: 10px;
+         }
+         .and
+         {
+           font-size: 12px;
+           text-align: center;
+         }
+
+         .pic 
+         {
+          height: 900px;
+          display:flex;
+         flex-direction: column;
+          margin:30px 0px 0px 20px;
+          
+         }
+          .pic1
+         {
+          height: 300px;
+          width: 100%;
+           font-size: 30px;
+           padding: 30px 30px;
+           margin-bottom: 10px;
+         }
+           .pic2
+         {
+          height: 300px; 
+          width: 100%;
+            font-size: 30px;
+           padding: 30px 30px;
+            margin-bottom: 10px;
+         }
+         .pic3
+         {
+          height: 300px;
+          width: 100%;
+           font-size: 30px;
+           padding: 30px 30px;
+         }
+           .spic 
+         {
+          height: 300px;
+          width: 90%;
+           display:flex;
+         flex-direction: column;
+          margin:20px 0px 0px 30px;
+          
+         }
+         .spic1
+         { 
+          height: 300px;
+           
+         font-size: 30px;
+           padding: 30px 30px;
+         }
+
+         .last
+         {
+          height: 1100px;
+          display:flex;
+         flex-direction: column;
+          margin-top: 30px;
+          background: blue;
+
+         }
+} 
+
+  @media screen and (max-width: 490px)
+	   {
+        .plan
+         {
+         	height: 500px;
+         	margin-top: 10px;
+         	padding: 80px 80px;
+         }
+         .plan .black
+         {
+         	height: 300px;
+         	width: 300px;
+         	background:rgba(0, 0, 0, 0.5);   
+         }
+         .black .black1
+         {
+          font-size: 20px;
+          padding:60px 0px 10px 60px ;
+         
+         }
+          .black .black2
+         {
+          font-size: 15px;
+            padding: 20px 40px 10px 60px ;
+         }
+          .black .black3
+         {
+          height: 40px;
+          width: 130px;
+          font-size: 12px;
+          padding: 50px ;
+            padding: 13px 0px 10px 15px ;
+            margin-left: 60px;
+            margin-top: 30px;
+         }
+         .part
+         {
+          height:300px;
+         display: flex;
+         flex-direction: column;
+         }
+           .pa3 .pa5 
+          {
+            margin-left: 250px;
+          }
+             .pa23 .pa25 
+          {
+            margin-left: 250px;
+          }
+           .pa13 .pa15 
+          { 
+            margin-left: 250px;
+          }
+           .pa43 .pa45 
+          {
+            margin-left: 250px;
+          }
+          .section
+         {  
+         	height: 700px;
+         	  display: flex;
+         flex-direction: column;
+         margin: 1150px 0px 0px 0px;
+         }
+         .s1 .s12
+         {
+         	height: 250px;
+         	width: 100%;
+          font-size: 13px;
+          padding: 20px;
+          margin-bottom: 50px;
+         }
+        
+         .meet
+         {
+         	height: 50px;
+         	text-align: center;
+          font-size: 50px;
+          margin-top: 550px;
+         }
+           .expert
+         {  
+         	height: 200px;
+         	display: flex;
+         flex-direction: column;
+         	margin: 30px 10px 0px 10px;
+         
+         }
+          .expert .expert2
+         {
+         	border: 0.5px solid black;
+         	margin-top: 10px;
+         	margin-left: 0px;
+          display: flex;
+         }
+           .expert0
+         {  
+         	height: 200px;
+         	display:flex;
+         	flex-direction: column;
+         	margin: 360px 10px 0px 10px;
+            
+         }
+          .expert0 .expert4
+          {
+         	margin-top: 10px;
+         	margin-left: 0px;
+         }
+          .side
+         {
+          height: 550px;
+         display: flex;
+         flex-direction: column;
+          margin:380px 30px 30px 30px;
+         }
+          .side1
+         {
+         	height: 300px;
+         background: hotpink;
+         padding: 30px;
+         font-size: 13px;
+         color: white;
+         }
+          .side2
+         {
+         	height: 250px;
+         }
+          .pc 
+         {
+           font-size: 30px;
+           text-align: center;
+           margin-top:10px;
+           margin-bottom: 20px;
+         }
+         .we 
+         {
+           font-size: 12px;
+           text-align: center;
+           margin-bottom: 10px;
+         }
+         .and
+         {
+           font-size: 12px;
+           text-align: center;
+         }
+
+         .pic 
+         {
+          height: 900px;
+          display:flex;
+         flex-direction: column;
+          margin:30px 0px 0px 20px;
+          
+         }
+          .pic1
+         {
+         	height: 300px;
+         	width: 100%;
+           font-size: 30px;
+           padding: 30px 30px;
+           margin-bottom: 10px;
+         }
+           .pic2
+         {
+         	height: 300px; 
+         	width: 100%;
+            font-size: 30px;
+           padding: 30px 30px;
+            margin-bottom: 10px;
+         }
+         .pic3
+         {
+         	height: 300px;
+         	width: 100%;
+           font-size: 30px;
+           padding: 30px 30px;
+         }
+           .spic 
+         {
+          height: 300px;
+          width: 90%;
+           display:flex;
+         flex-direction: column;
+          margin:20px 0px 0px 30px;
+          
+         }
+         .spic1
+         { 
+         	height: 300px;
+           
+         font-size: 30px;
+           padding: 30px 30px;
+         }
+
+         .last
+         {
+          height: 1100px;
+          display:flex;
+         flex-direction: column;
+          margin-top: 30px;
+          background: blue;
+
+         }
+}

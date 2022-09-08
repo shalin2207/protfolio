@@ -1,0 +1,779 @@
+body
+{
+	margin: 0;
+}
+*
+{
+	box-sizing: border-box;
+}
+.row
+{
+	display: flex;
+  flex-wrap: wrap;
+}
+.first
+{
+	height: 700px;
+	width: 100%;
+	background:url(../image/bg1.jpg);
+	background-size: 100% 100%;
+}
+.first .fix
+{
+	height: 300px;
+	width: 100px;
+	background: black;
+   border-radius: 10px 0px 0px 10px;
+	position: fixed;
+   margin-left: 1378px;
+   margin-top: 70px;
+}
+.fix .a
+{
+	color:white;
+	font-size: 30px;
+	padding:20px 40px;
+	border-bottom: 1px solid white;
+}
+.fix .b
+{
+	color:white;
+	font-size: 20px;
+	padding:10px 40px;
+}
+.fix .b1
+{
+	color:white;
+	font-size: 15px;
+	padding:0px 35px;
+	padding-bottom: 10px;
+}
+.fix .download
+{
+	color:white;
+	font-size: 20px;
+		padding:10px 40px;
+}
+.fix .download1
+{
+	color:white;
+	font-size: 15px;
+		padding:0px 20px;
+			padding-bottom: 10px;
+}
+.fix .buy
+{
+	color:white;
+	font-size: 20px;
+		padding:10px 40px;
+}
+.fix .buy1
+{
+	color:white;
+	font-size: 15px;
+		padding:0px 40px;
+}
+.first .first
+{
+	height: auto;
+}
+.first .espousal
+{
+	height: 60px;
+	width: 50%;
+	color:red;
+	font-size: 50px;
+	padding: 20px 100px;
+	font-family: Segoe UI Symbol;
+}
+.first .content
+{
+	height: 60px;
+	width: 50%;
+	padding-top: 15px;
+	padding-left: 200px;
+}
+.content ul
+{
+   margin: 0px;
+   padding: 0px;
+}
+.content ul li
+{
+	list-style: none;
+	display: inline;
+}
+.content ul li a 
+{
+	text-decoration: none;
+	font-size: 18px;
+		font-family: Segoe UI Symbol;
+	color: white;
+	margin-right: 20px;
+}
+.content ul li a:hover
+{
+	color: red;
+}
+.first .head
+{
+	font-size: 40px;
+	color: white;
+		font-family: Segoe UI Symbol;
+	text-align: center;
+	padding-top: 250px;
+}
+.first .prag
+{
+	font-size: 20px;
+	text-align: center;
+	padding-top: 20px;
+		font-family: Segoe UI Symbol;
+	color: white;
+}
+.first .prag1
+{
+	font-size: 20px;
+	text-align: center;
+	padding-top: 10px;
+	color: white;
+		font-family: Segoe UI Symbol;
+}
+.wtos
+{   
+	font-size: 50px;
+	text-align: center;
+	margin-top: 20px;
+		font-family: Segoe UI Symbol;
+}
+.second
+{
+	height: auto;
+	width: 100%;
+
+}
+.second .s1 
+{
+	height: 450px;
+	width: 50%;
+	margin-top: 50px;
+   padding-left: 50px;
+}
+.s1 .best
+{
+	height: 50px;
+	width: 100%;
+	font-size: 30px;
+	padding-top: 20px;
+	padding-left: 50px;
+	text-align: center;
+		font-family: Segoe UI Symbol;
+}
+.s1 .s3
+{
+	height: 40px;
+	width: 100%;
+	margin-top:20px ;
+}
+.s3 .wed
+{
+	font-size: 30px;
+	width: 60%;
+		font-family: Segoe UI Symbol;
+	padding-left: 250px;
+}
+.s3 .wed1
+{
+	font-size: 15px;
+	width: 40%;
+	font-weight: bold;
+	padding-top: 20px;
+		font-family: Segoe UI Symbol;
+}
+.s1 .s4
+{ 
+	width: 320px;
+	font-size: 30px;
+	border: 1px solid red;
+	margin-left: 240px;
+	margin-top: 40px;
+		font-family: Segoe UI Symbol;
+}
+.s1 .s5
+{
+	padding-left: 220px;
+	margin-top: 30px;
+	font-size: 22px;
+		font-family: Segoe UI Symbol;
+}
+
+.second .s2 
+{
+	height: 450px;
+	width: 30%;
+	background: url(../image/g1.jpg);
+	background-size:100% 100% ;
+	margin-left: 20px;
+   margin-top: 50px;
+}
+.third
+{
+	height: auto;
+	width: 100%;
+	background:linear-gradient(rgba(0, 0, 0, 0.45),rgba(0, 0, 0, 0.24)),url(../image/bg2.jpg);
+	background-size:100% 100% ;
+	margin-top: 30px;
+	background-attachment:fixed ;
+
+}
+.third .our
+{
+	font-size: 50px;
+	text-align: center;
+	padding-top: 100px;
+		font-family: Segoe UI Symbol;
+}
+.third .third1
+{
+	height:auto;
+	width: 90%;
+	margin-top: 40px;
+	margin-left: 150px;
+}
+.third1 .photo
+{
+	height: 250px;
+	width: 30%;
+	margin-right: 20px;
+	font-size: 30px;
+	text-align: center;
+}
+.photo .ph1 
+{
+	height: 75px;
+	padding-top: 40px;
+	color: white;
+}
+.photo .ph2
+{
+	height: 75px;
+	padding-top: 30px;
+	color: white;
+		font-family: Segoe UI Symbol;
+}
+.photo .ph3 
+{
+	height: 75px;
+	color: red;
+		font-family: Segoe UI Symbol;
+}
+.third1 .flower
+{
+	height: 250px;
+	width: 30%;
+	margin-right: 20px;
+	font-size: 30px;
+	text-align: center;
+}
+.flower .f1 
+{
+	height: 75px;
+	padding-top: 40px;
+	color: white;
+}
+.flower .f2
+{
+	height: 75px;
+	padding-top: 30px;
+	color: white;
+		font-family: Segoe UI Symbol;
+}
+.flower .f3
+{
+	height: 75px;
+	color: red;
+		font-family: Segoe UI Symbol;
+}
+.third1 .car
+{
+	height: 250px;
+	width: 30%;
+	margin-right: 20px;
+	font-size: 30px;
+	text-align: center;
+}
+.car .c1 
+{
+	height: 75px;
+	padding-top: 40px;
+	color: white;
+}
+.car .c2
+{
+	height: 75px;
+	padding-top: 30px;
+	color: white;
+}
+.car .c3
+{
+	height: 75px;
+	color: red;
+		font-family: Segoe UI Symbol;
+}
+.popular
+{
+	text-align: center;
+	font-size: 50px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+		font-family: Segoe UI Symbol;
+}
+.picture 
+{
+	height:auto;
+	margin-bottom: 20px;
+}
+.picture .pic1
+{
+	height: 600px;
+	width: 30%;
+	padding-left:180px;
+}
+.pic1 .hug
+{
+	height: 200px;
+	width: 80%;
+	background: url(../image/g2.jpg);
+	background-size: 100% 100%;
+	margin-bottom: 20px;
+}
+.pic1 .ring
+{
+	height: 200px;
+	width: 80%;
+	background: url(../image/g3.jpg);
+	background-size: 100% 100%;
+}
+.picture .pic2
+{
+	height: 600px;
+	width: 40%;
+}
+.pic2 .ful
+{
+	height: 380px;
+	background: url(../image/g1.jpg);
+	background-size: 100% 100%;
+	margin-bottom: 20px;
+}
+.pic2 .dived
+{
+	height: 200px;
+	margin-top: 40px;
+}
+.dived .decky
+{
+	height: 200px;
+	width: 45%;
+	background: url(../image/g4.jpg);
+	background-size: 100% 100%;
+	margin-right: 50px;
+}
+.dived .sit
+{
+	height: 200px;
+	width: 45%;
+	background: url(../image/g5.jpg);
+	background-size: 100% 100%;
+}
+.picture .pic3
+{
+	height: 600px;
+	width: 30%;
+	padding-left: 50px;	
+}
+.pic3 .stand
+{
+	height: 200px;
+	width: 60%;
+	background: url(../image/g6.jpg);
+	background-size: 100% 100%;
+	margin-bottom: 20px;
+}
+.pic3 .dish
+{
+	height: 200px;
+	width: 60%;
+	background: url(../image/g7.jpg);
+	background-size: 100% 100%;
+}
+.part5
+{
+	height:550px;
+	background:linear-gradient(rgba(0, 0, 0, 0.45),rgba(0, 0, 0, 0.24)),url(../image/bg3.jpg);
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	margin-top: 80px;
+	text-align: center;
+	font-size: 50px;
+	padding-top: 80px;
+	margin-bottom: 20px;
+		font-family: Segoe UI Symbol;
+}
+.part5 .date input
+{
+   height: 40px;
+   width: 450px;
+   background: transparent;
+   border: 2px solid white;
+   	font-family: Segoe UI Symbol;
+}
+.part5 .date input:focus
+{
+	outline:none;
+}
+.part5 .name input
+{
+   height: 40px;
+   width: 450px;
+   background: transparent;
+   border: 2px solid white;
+   	font-family: Segoe UI Symbol;
+}
+.part5 .name input:focus
+{
+	outline:none;
+}
+.part5 .mail input
+{
+   height: 40px;
+   width: 450px;
+   background: transparent;
+   border: 2px solid white;
+   	font-family: Segoe UI Symbol;
+}
+.part5 .mail input:focus
+{
+	outline:none;
+}
+.part5 .message input
+{
+   height: 40px;
+   width: 450px;
+   background: transparent;
+   border: 2px solid white;
+   	font-family: Segoe UI Symbol;
+}
+.part5 .message input:focus
+{
+	outline:none;
+}
+.part5 .booking input
+{
+   height: 40px;
+   width: 450px;
+   background: red;
+   text-align: center;
+   color: white;
+   	font-family: Segoe UI Symbol;
+}
+.part5 .booking input:hover
+{
+	border :1px solid red;
+	background: transparent;
+	outline: none;
+}
+.jp
+{
+	text-align: center;
+	font-size: 50px;
+	margin: 50px 0px;
+		font-family: Segoe UI Symbol;
+}
+.part6
+{
+	height:auto;
+	margin-bottom: 20px;
+	padding:80px  50px  80px 90px;
+}
+.part6 .part61
+{
+	height: 300px;
+	width: 30%;
+	margin-right: 30px;
+	box-shadow: 0px 0px 8px black;
+	border-radius: 5px;
+}
+.part61 .july
+{
+	padding-top: 40px;
+	font-size: 20px;
+	padding-left: 25px;
+		font-family: Segoe UI Symbol;
+}
+.part61 .shower
+{
+	padding-top: 10px;
+	font-size: 30px;
+	color: red;
+	padding-left: 25px;
+		font-family: Segoe UI Symbol;
+}
+.part61 .null
+{
+	font-size: 20px;
+	padding:20px 25px;
+		font-family: Segoe UI Symbol;
+}
+.part6 .part62
+{
+	height: 300px;
+	width: 30%;
+	margin-right: 30px;
+	box-shadow: 0px 0px 8px black;
+	border-radius: 5px;
+}
+.part62 .july12
+{
+	padding-top: 40px;
+	font-size: 20px;
+	padding-left: 25px;
+		font-family: Segoe UI Symbol;
+}
+.part62 .cere
+{
+	padding-top: 10px;
+	font-size: 30px;
+	color: red;
+	padding-left: 25px;
+		font-family: Segoe UI Symbol;
+}
+.part62 .null1
+{
+	font-size: 20px;
+	padding:20px 25px;
+		font-family: Segoe UI Symbol;
+}
+.part6 .part63
+{
+	height: 300px;
+	width: 30%;
+	box-shadow: 0px 0px 8px black;
+	border-radius: 5px;
+}
+.part63 .july25
+{
+	padding-top: 40px;
+	font-size: 20px;
+	padding-left: 25px;
+		font-family: Segoe UI Symbol;
+}
+.part63 .trip
+{
+	padding-top: 10px;
+	font-size: 30px;
+	color: red;
+	padding-left: 25px;
+		font-family: Segoe UI Symbol;
+}
+.part63 .null2
+{
+	font-size: 20px;
+	padding:20px 25px;
+		font-family: Segoe UI Symbol;
+}
+.last
+{
+	height: auto;
+	background: black;
+	margin-top: 20px;
+	margin-bottom: 30px;
+	padding-top: 30px;
+}
+.last .last1
+{
+	height: 350px;
+	width:100%;
+	padding-left: 150px;
+}
+.last1 .row1
+{
+	height: 350px;
+	width: 22%;
+}
+.row1 .us 
+{
+  padding-top: 20px;
+  font-size: 30px;
+  padding-left: 20px;
+  	font-family: Segoe UI Symbol;
+}
+.row1 .pragra
+{
+	padding-top: 20px;
+  font-size: 20px;
+  padding-left: 20px;
+color: #6c757d;
+  	font-family: Segoe UI Symbol;
+}
+.row1 .social 
+{
+	padding-top: 20px;
+  font-size: 20px;
+  padding-left: 20px;
+  color: white;
+}
+.fa-facebook
+{
+  background: #3b5998;
+  padding: 3px 7px;
+}
+.fa-twitter
+{
+  background: #55acee;
+  padding: 3px 7px;
+}
+.fa-pinterest
+{
+  background:   #bd081c;
+  padding: 3px 7px;
+}
+.fa-google
+{
+  background:   #bd081c;
+  padding: 3px 7px;
+}
+.last1 .row2
+{
+	height: 350px;
+	width: 22%;
+}
+.row2 .info 
+{
+  padding-top: 20px;
+  font-size: 30px;
+  padding-left: 20px;
+  color: white;
+  	font-family: Segoe UI Symbol;
+}
+.row2 .l
+{
+	padding-top: 10px;
+  font-size: 25px;
+  padding-left: 20px;
+  color: white;
+  	font-family: Segoe UI Symbol;
+}
+.row2 .add
+{
+	padding-top: 10px;
+  font-size: 15px;
+  padding-left: 20px;
+  padding-right: 20px;
+color: #6c757d;
+  	font-family: Segoe UI Symbol;
+}
+.row2 .phone1
+{
+  padding-top: 20px;
+  font-size: 25px;
+  padding-left: 20px;
+   color: white;
+   	font-family: Segoe UI Symbol;
+}
+.row2 .pnum
+{
+  padding-top: 10px;
+  font-size: 15px;
+  padding-left: 20px;
+color: #6c757d;
+  	font-family: Segoe UI Symbol;
+}
+.row2 .com
+{
+  padding-top: 10px;
+  font-size: 15px;
+  padding-left: 20px;
+color: #6c757d;
+  	font-family: Segoe UI Symbol;
+}
+.last1 .row3
+{
+	height: 350px;
+	width: 22%;
+}
+.row3 .link
+{
+	padding-top: 20px;
+	font-size: 30px;
+	 	font-family: Segoe UI Symbol;
+}
+.row .lists 
+{
+	color: white;
+}
+.lists ul
+{
+	margin: 0px;
+	padding: 0px;
+}
+
+.lists ul li 
+{
+  list-style: none;
+ padding-top: 20px;
+}
+.lists ul li a 
+{
+	margin-bottom: 10px;
+	 	font-family:sans-serif;
+	 	color: #6c757d;
+}
+.last1 .row4
+{
+	height: 350px;
+	width: 22%;
+}
+.row4 .sub
+{
+	padding-top: 20px;
+	font-size: 30px;
+	 	font-family: Segoe UI Symbol;
+}
+.row4 .by
+{
+	padding-top: 10px;
+	font-size: 15px;
+	padding-right: 80px;
+	color:#6c757d;
+	 	font-family: Segoe UI Symbol;
+}
+.row4 .m
+{  
+	height: 40px;
+	width: 250px;
+	padding-top: 10px;
+	font-size: 20px;
+	 	font-family: Segoe UI Symbol;
+	border: 1px solid white;
+	margin-top: 20px;
+	color: #6c757d;
+	text-align: center;
+}
+.last .last2
+{
+	height:1px;
+	width:80%;
+	background:white;
+	border: 1px solid white;
+	margin-left: 150px;
+}
+.last .last3
+{
+	height: 40px;
+	width:50%;
+	padding-left: 150px;
+	padding-top: 10px;
+	color: white;
+	 	font-family: Segoe UI Symbol;
+}

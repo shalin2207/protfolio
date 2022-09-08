@@ -1,0 +1,703 @@
+body
+{
+margin: 0;
+}
+*
+{
+box-sizing: border-box;
+}
+.row
+{
+display: flex;
+flex-wrap: wrap;
+}
+ .front1
+{
+height: 650px;
+width:100%;
+background:url(../image/Rectangle.png);
+}
+.front1 .f1
+{
+height: 40px;
+width: 100%;
+padding-top: 20px;
+}
+.f1 .house
+{
+height: 40px;
+width: 50%;
+font-size: 30px;
+font-weight: bold;
+padding-left: 140px;
+}
+.f1 .deliver 
+{
+height: 40px;
+width: 50%;
+font-size: 15px;
+padding-left: 350px;
+font-family: monospace;
+
+}
+.f1 .deliver img
+{
+
+height: 30px;
+width: 15%;
+font-weight: bold;
+padding-left: 0px;
+}
+
+.front1 .list
+{
+height: 30px;
+width: 100%;
+padding-left: 1000px;
+padding-top: 20px;
+}
+.list ul
+{
+margin:0px;
+padding: 0px;
+}
+.list ul li
+{
+display: inline;
+list-style: none;
+}
+.list ul li a
+{
+text-decoration: none;
+font-size: 20px;
+margin-right: 20px;
+font-family:fantasy;
+color: black;
+}
+.front1 .f2
+{
+height: 225px;
+width: 100%;
+padding-top: 60px;
+}
+.f2 .b3
+{
+height: 225px;
+width: 45%;
+padding-top:30px;
+padding-left:25px;
+}
+.b3 .doted
+{
+height: 25px;
+width: 75%;
+border:2px dotted black;
+font-size:15px;
+line-height: 20px;
+}
+.b3 .burgers
+{
+height: 100px;
+width: 100%;
+font-weight: bold;
+font-size: 150px;
+margin-top: 10px;
+font-family:unset;
+}
+.b3 .week
+{
+height: 80px;
+width: 100%;
+font-weight: bold;
+font-size: 80px;
+padding-top: 25px;
+font-family:unset;
+}
+.f2 .berpic
+{
+height: 500px;
+width: 55%;
+padding-top: 100px;
+padding-left: 80px;
+}
+.berpic .i1
+{
+    position: relative;
+}
+.berpic .ii1
+{
+    height: 300px; 
+    width: 250px;
+      transform: rotate(300deg);   
+       overflow:hidden; 
+          margin-left: 15px;                                                   
+}
+.berpic .ii11
+{
+    height: 400px;
+     width: 400px;
+ position: absolute; 
+ margin-left:150px;
+}
+.berpic .ii12
+{
+    height: 420px; 
+    width: 200px;
+    margin-left:130px;
+     margin-top: -130px;
+}
+.berpic .ii13
+{
+    background: darkred;
+     border-radius: 50%;
+      height: 100px;
+       width: 100px;
+        margin-top: 300px;
+         margin-left: 80px;
+          position: absolute;
+}
+.berpic .i12
+{
+    height: 80px;
+    width: 80px;
+    font-size: 20px;
+    margin-top: 10px;
+    color: white;
+    border-radius: 50%;
+    margin-left: 10px;
+    padding-top: 15px;
+    padding-left: 18px;
+    border: 1px solid white;
+}
+ .front2
+{
+height: 550px;
+width:100%;
+}
+.front2 .pic1
+{
+   height: 450px;
+   width:45%;
+   font-size: 20px;
+   color: white;
+   background:url(../image/Burger-Image1.gif);
+   background-size: 100% 100%;
+   margin: 50px 40px 0px 60px;
+   padding-left: 10px;
+   padding-top: 10px;
+}
+.front2 .pic2
+{
+height: 400px;
+   width:40%;
+padding-top: 50px;
+}
+.pic2 .pic22
+{
+height: 210px;
+   width:100%;
+   font-size: 20px;
+   color: white;
+   padding-left: 15px;
+   padding-top: 10px;
+   background: url(../image/Image2.gif);
+    background-size: 100% 100%;
+   margin-bottom: 30px;
+}
+.pic2 .pic23
+{
+height: 210px;
+   width:100%;
+   font-size: 20px;
+   color: white;
+  background: url(../image/Image4.gif);
+    background-size: 100% 100%;
+     padding-left: 15px;
+   padding-top: 10px;
+}
+ .front3
+{
+height: 30px;
+width:20%;
+background: orange;
+font-size: 20px;
+text-align: center;
+margin-left: 600px;
+line-height: 30px;
+}
+ .front4
+{
+height:40px;
+width:80%;
+font-size: 50px;
+margin-left: 155px;
+margin-top: 10px;
+text-align: center;
+font-family:fantasy;
+letter-spacing: 5px;
+}
+ .front5
+{
+height:20px;
+width:100%;
+font-size: 20px;
+text-align: center;
+margin-top: 20px;
+}
+ .front6
+{
+height:20px;
+width:100%;
+font-size: 20px;
+text-align: center;
+margin-top: 10px;
+}
+ .front7
+{
+height: 450px;
+width:100%;
+margin-top: 50px;
+}
+.front7 .lid1
+{
+  height: 450px;
+width:33.33%;
+}
+.lid1 .p1
+{
+height: 300px;
+width: 80%;
+ background: url(../image/Burger1.gif);
+    background-size: 100% 100%;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.lid1 .d1
+{
+height: 30px;
+font-size: 25px;
+font-weight: bold;
+padding-left: 80px;
+padding-top: 20px;
+font-family:fantasy;
+letter-spacing: 5px;
+}
+.lid1 .l1
+{
+height: 15px;
+font-size: 12px;
+padding-left: 110px;
+margin-top: 20px;
+}
+.lid1 .l11
+{
+height: 15px;
+font-size: 12px;
+padding-left: 150px;
+}
+.lid1 .s1
+{
+height: 30px;
+width: 30%;
+background: red;
+font-size: 18PX;
+    color:white;
+    font-weight: bold;
+    padding-left: 15px;
+    line-height: 30px;
+    margin-left: 120px;
+    margin-top: 15px;
+}
+.front7 .lid2
+{
+height: 450px;
+width:33.33%;
+}
+.lid2 .p2
+{
+height: 300px;
+width: 80%;
+ background: url(../image/Burger-Image2.gif);
+    background-size: 100% 100%;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+.lid2 .d2
+{
+height: 30px;
+font-size: 25px;
+font-weight: bold;
+padding-left: 80px;
+padding-top: 20px;
+font-family:fantasy;
+letter-spacing: 5px;
+}
+.lid2 .l2
+{
+height: 15px;
+font-size: 12px;
+padding-left: 110px;
+margin-top: 20px;
+}
+.lid2 .l22
+{
+height: 15px;
+font-size: 12px;
+padding-left: 150px;
+}
+.lid2 .s2
+{
+height: 30px;
+width: 30%;
+background: red;
+font-size: 18PX;
+    color:white;
+    font-weight: bold;
+    padding-left: 15px;
+    line-height: 30px;
+    margin-left: 120px;
+    margin-top: 15px;
+}
+.front7 .lid3
+{
+height: 450px;
+width:33.33%;
+}
+.lid3 .p3
+{
+height: 300px;
+width: 80%;
+ background: url(../image/Burger1.gif);
+    background-size: 100% 100%;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+.lid3 .d3
+{
+height: 30px;
+font-size: 25px;
+font-weight: bold;
+padding-left: 80px;
+padding-top: 20px;
+font-family:fantasy;
+letter-spacing: 5px;
+}
+.lid3 .l3
+{
+height: 15px;
+font-size: 12px;
+padding-left: 110px;
+margin-top: 20px;
+}
+.lid3 .l33
+{
+height: 15px;
+font-size: 12px;
+padding-left: 150px;
+
+}
+.lid3 .s3
+{
+height: 30px;
+width: 30%;
+background: red;
+font-size: 18PX;
+    color:white;
+    font-weight: bold;
+    padding-left: 15px;
+    line-height: 30px;
+    margin-left: 120px;
+    margin-top: 15px;
+}
+ .front8
+{
+height:350px;
+width:90%;
+ box-shadow: 10px 10px  10px black;
+ margin:40px;
+}
+.front8 .ff8
+{
+height: 350px;
+width: 50%;
+}
+.ff8 .h1
+{
+height: 50px;
+font-size: 25PX;
+font-weight: bold;
+padding-top: 20px;
+padding-left: 20px;
+font-family:fantasy;
+letter-spacing: 5px;
+}
+.ff8 .h2
+{
+height: 50px;
+font-size: 40px;
+font-weight: bold;
+padding-left: 20px;
+}
+.ff8 .h3
+{
+height: 100px;
+padding: 20px;
+padding-right: 50px;
+font-size: 15px;
+}
+.front8 .ff9
+{
+height: 320px;
+width: 48%;
+background: url(../image/Food-Image.gif);
+    background-size: 100% 100%;
+    margin-top: 10px;
+}
+.back7
+{
+height: 460px;
+width: 100%;
+margin-top: 80px;
+}
+.back7 .bc
+{
+    height: 480px;
+    width: 20%;
+}
+.bc .burgerc img
+{
+    height: 110px;
+    width: 110px;
+}
+.bc .bottle img
+{
+    height: 210px;
+    margin-left: 120px;
+}
+.back7 .back70
+{
+    height: 170px;
+    width: 60%;
+}
+.back70 .back71
+{
+height: 50px;
+width: 100%;
+text-align: center;
+font-size: 25px;
+padding-top: 20px;
+}
+.back70 .back72
+{
+height: 40px;
+width: 100%;
+text-align: center;
+font-size: 40px;
+font-weight: bold;
+font-family:fantasy;
+letter-spacing: 5px;
+}
+.back70 .back73
+{
+height: 40px;
+width: 100%;
+padding-left: 5px;
+font-size: 20px;
+margin-top: 50px;
+margin-bottom: 30px;
+}
+.back73 .name
+{
+height:40px;
+width: 48%;
+border:1px solid black;
+margin-right: 15px;
+padding-top: 8px;
+padding-left: 5px;
+
+}
+.back73 .email
+{
+height:40px;
+width: 48%;
+border:1px solid black;
+padding-top: 8px;
+padding-left: 5px;
+}
+.back70 .back74
+{
+height: 40px;
+width: 100%;
+padding-left: 5px;
+font-size: 20px;
+margin-bottom: 30px;
+}
+.back74 .date
+{
+height:40px;
+width: 48%;
+border:1px solid black;
+margin-right: 15px;
+padding-top: 8px;
+padding-left: 5px;
+}
+.back74 .time
+{
+height:40px;
+width: 48%;
+border:1px solid black;
+padding-top: 8px;
+padding-left: 5px;
+}
+.back70 .back75
+{
+height: 40px;
+width: 100%;
+padding-left: 5px;
+font-size: 20px;
+}
+.back75 .people
+{
+height:40px;
+width: 48%;
+border:1px solid black;
+margin-right: 15px;
+padding-top: 8px;
+padding-left: 5px;
+}
+.back75 .table
+{
+height:40px;
+width: 48%;
+border:1px solid black;
+padding-top: 8px;
+padding-left: 5px;
+}
+.back7 .round 
+{
+    height: 460px;
+    width: 20%;
+    padding-top: 160px;
+    padding-left: 100px;
+    overflow:hidden;
+}
+.back7 .round img
+{
+    height: 300px;
+    width: 300px;
+}
+ .back8
+{
+height: 400px;
+width: 90%;
+background: url(../image/Layer.gif);
+background-size:100% 100% ;
+margin-left: 50px;
+margin-bottom: 20px;
+}
+.back8 .back81
+{
+height: 400px;
+width: 50%;
+}
+.back81 .bh
+{
+height: 50px;
+font-size:30px;
+color: white;
+padding: 40px 0px 0px 100px;
+}
+.bh img
+{
+    height: 30px;
+     width: 200px;
+}
+.back81 .vf
+{
+height: 100px;
+font-size: 15px;
+color: white;
+padding: 50px 10px 0px 30px;
+}
+.back81 .cn
+{
+height:30px;
+font-size: 15px;
+color: white;
+padding: 200px 0px 0px 30px;
+}
+.back8 .back82
+{
+height: 400px;
+width: 50%;
+padding-top: 100px;
+padding-left: 100px;
+}
+
+.back82 .location
+{
+height: 50px;
+font-size: 15px;
+padding-top: 80px;
+padding-left: 140px;
+color: white;
+}
+.fa-map-marker
+{
+    font-size: 20px;
+}
+
+.back82 .g
+{
+height: 50px;
+ font-size: 15px;
+ padding-left: 140px;
+ color: white;
+ margin-top: 30px;
+}
+.fa-envelope
+{
+    font-size: 20px;
+}
+
+
+.back82 .social
+{
+height:50px;
+
+padding-left: 350px;
+padding-top: 100px;
+}
+.fa-facebook
+{
+  background:white;
+  padding: 3px 7px;
+  border-radius: 50%;
+  margin-right: 5px;
+}
+.fa-twitter
+{
+  background:white;
+  padding: 3px 7px;
+    border-radius: 50%;
+  margin-right: 5px;
+}
+
+.fa-instagram
+{
+  background:white;
+  padding: 3px 7px;
+    border-radius: 50%;
+  margin-right: 5px;
+}
+.fa-pinterest
+{
+  background:white;
+  padding: 3px 7px;
+    border-radius: 50%;
+  margin-right: 5px;
+}
+
+
+
+

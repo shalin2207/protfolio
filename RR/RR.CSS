@@ -1,0 +1,698 @@
+
+		body
+		{
+			margin: 0px;
+		}
+
+		*{box-sizing: border-box;}
+		
+
+
+         .main1
+         {
+         	height: 500px;
+         	background: url(../RR/image/homepage-banner-ultrafan.jpg);
+          background-size: 100% 100%;
+         }
+        
+         .plan
+         {
+         	height: 600px;
+          background: url(../RR/image/home-module-image.jpg);
+          background-size: 100% 100%;
+         	margin-top: 10px;
+         	padding: 80px 200px;
+          background-position:-100px 0px;
+          transition: 1s;
+          background-repeat: no-repeat;
+         }
+         .plan:hover
+         {
+           background-position: 0px 50px;
+         }
+         .plan .black
+         {
+         	height: 400px;
+         	width: 500px;
+         	background:rgba(0, 0, 0, 0.5);
+            
+         }
+         .black .black1
+         {
+          font-size: 40px;
+          padding: 60px 0px 10px 60px ;
+          color: white;
+         }
+          .black .black2
+         {
+          font-size: 20px;
+          padding: 0px ;
+          color: white;
+            padding: 20px 40px 10px 60px ;
+         }
+          .black .black3
+         {
+          height: 50px;
+          width: 200px;
+          font-size: 18px;
+          border: 2px solid white;;
+          padding: 20px ;
+          border-radius: 30px;
+          color:white;
+            padding: 13px 0px 10px 25px ;
+            margin-left: 60px;
+            margin-top: 30px;
+            font-weight: bold;
+            position: relative;
+            overflow: hidden;
+
+         }
+
+        .black .black3::after
+    {
+      content: "";
+      position:absolute;
+      top: 0;
+      left: 0;
+
+      height: 100px;
+      width: 300px;
+      background:white;
+
+      transform: translate(-100%,0);
+     
+      transition: 2s;
+
+    }
+
+      .black .black3:hover::after
+    {
+      transform: translate(100%,0%);
+      color:black;
+      z-index:unset;
+    }
+         .update
+         {
+         	height: 50px;
+         	text-align: center;
+         font-size: 50px;
+         }
+
+         .part
+         {
+          height:auto;
+          display: grid;
+          grid-template-columns: 1fr 1fr 1fr 1fr;
+          margin-top: 50px;
+          grid-gap: 10px;
+         }
+         .part1
+         { 
+          height: 350px;
+          border: 0.5px solid black;
+         }
+          .part1 .pa1
+         {
+          height: 130px;
+          background: url(../RR/image/pr-15-06-2022-landing-img.jpg);
+          background-size: 100% 100%;
+         }
+          .part1 .pa2
+          {
+            height: 180px;
+            font-size: 30px;
+            color: blue;
+            border-bottom: 1px solid black;
+            padding-left: 20px;
+          }
+          .part1 .pa3
+          {
+            height: 30px;
+           display: flex;
+           padding: 10px;
+          }
+          .pa3 .pa4 
+          {
+            color: red;
+            font-size: 12px;
+          }
+           .pa3 .pa5 
+          {
+            font-size: 12px;
+            margin-left: 170px;
+          }
+          .part2
+         {
+          background: url(../RR/image/sustainable-ops-landing-image.jpg);
+          background-size: 100% 100%;
+         }
+         .part2 .pa22
+         {
+          color: white;
+          border-bottom: 2px solid white;
+          font-size: 30px;
+          padding:220px 40px 0px 40px;
+         font-weight: bold;
+         }
+           .part2 .pa23
+          {
+            height: 30px;
+           display: flex;
+           padding: 10px;
+          }
+          .pa23 .pa24 
+          {
+            color:white;
+            font-size: 12px;
+             font-weight: bold;
+          }
+           .pa23 .pa25 
+          {
+            font-size: 12px;
+            margin-left: 180px;
+            color:white;
+             font-weight: bold;
+          }
+        .part3
+         { 
+          border: 0.5px solid black;
+         }
+          .part3 .pa11
+         {
+          height: 130px;
+          background: url(../RR/image/pr-03-06-2022a.jpg);
+          background-size: 100% 100%;
+         }
+          .part3 .pa12
+          {
+            height: 180px;
+            font-size: 30px;
+            color: blue;
+            border-bottom: 1px solid black;
+            padding-left: 20px;
+            padding-top: 20px;
+          }
+          .part3 .pa13
+          {
+            height: 30px;
+           display: flex;
+           padding: 10px;
+          }
+          .pa13 .pa14 
+          {
+            color: red;
+            font-size: 12px;
+          }
+           .pa13 .pa15 
+          {
+            font-size: 12px;
+            margin-left: 170px;
+          }
+          .part4
+         {
+          border: 0.5px solid black;
+         }
+         .part4 .pa41
+         {
+          height: 140px;
+          background: url(../RR/image/pr-01-06-2022-thumb.jpg);
+          background-size: 100% 100%;
+         }
+          .part4 .pa42
+          {
+            height: 170px;
+            font-size: 30px;
+            color: blue;
+            border-bottom: 1px solid black;
+            padding-left: 20px;
+            padding-top: 20px;
+          }
+          .part4 .pa43
+          {
+            height: 30px;
+           display: flex;
+           padding: 10px;
+          }
+          .pa43 .pa44 
+          {
+            color: red;
+            font-size: 12px;
+          }
+           .pa43 .pa45 
+          {
+            font-size: 12px;
+            margin-left: 170px;
+          }
+          .section
+         {  
+         	height:700px;
+         	display: grid;
+         	grid-template-columns: 3fr 3fr;
+         	margin: 40px 150px 40px 150px;
+         }
+         .section .s1
+         {
+         	margin-right:5px;
+          border: 0.5px solid black;
+         }
+         .s1 .s11
+         {
+         	height: 350px;
+         	width: 100%;
+         	background:url(../RR/image/nz-signpost.jpg);
+          background-size: 100% 100%;
+         }
+         .s1 .s12
+         {
+         	height: 300px;
+         	width: 100%;
+          padding: 20px;
+         }
+          .s1 .s12:hover
+         {
+          background: blue;
+          color: white;
+         }
+         .section .s2
+         {
+         	border: 0.5px solid black;
+         
+         }
+          .s2 .s21
+         {
+         	height: 350px;
+         	width: 100%;
+          background:url(../RR/image/rr-ar21-hero-banner.jpg);
+          background-size: 100% 100%;
+         }
+         .s2 .s22
+         {
+         	height: 300px;
+         	width: 100%;
+          height: 250px;
+          width: 100%;
+          padding: 20px;
+         }
+          .s2 .s22:hover
+         {
+          background: blue;
+          color: white;
+         }
+         .meet
+         {
+         	height: 50px;
+         	text-align: center;
+          font-size: 50px;
+         }
+
+
+        .expert
+         {  
+         	height:auto;
+         	display: grid;
+         	grid-template-columns: 4fr 4fr;
+         	margin: 40px 100px 10px 100px;
+         
+         }
+         .expert .expert1
+         {
+         	border: 0.5px solid black;
+            display: flex;
+         }
+         .expert1 .ex1
+         {
+          width: 50%;
+          background:url(../RR/image/joe-jenkins.jpg);
+          background-size: 100% 100%;
+         }
+          .expert1 .ex11
+         {
+          width: 50%;
+          font-size: 15px;
+          padding: 20px;
+          color: blue;
+         }
+         .ex11 .e1
+         {
+          font-size: 25px;
+          margin-bottom: 10px;
+         }
+          .ex11 .e2
+         {
+          font-size: 20px;
+          color: black;
+         }
+          .ex11 .e2:hover
+         {
+          font-size: 20px;
+          color:white;
+         }
+          .expert1 .ex11:hover
+         {
+          background: blue;
+          color: white;
+         }
+          .expert .expert2
+         {
+         	border: 0.5px solid black;
+         	margin-left: 20px;
+          display: flex;
+         }
+         .expert2 .ex2
+         {
+          width: 50%;
+          background:url(../RR/image/nipuni-karunaratne-landing-img.jpg);
+          background-size: 100% 100%;
+         }
+          .expert2 .ex22
+         {
+          width: 50%;
+          font-size: 15px;
+          padding: 20px;
+          color: blue;
+         }
+         .ex22 .e3
+         {
+          font-size: 25px;
+          margin-bottom: 10px;
+         }
+          .ex22 .e4
+         {
+          font-size: 20px;
+          color: black;
+         }
+          .ex22 .e4:hover
+         {
+          font-size: 20px;
+          color:white;
+         }
+          .expert2 .ex22:hover
+         {
+          background: blue;
+          color: white;
+         }
+         .expert0
+         {  
+         	height:auto;
+         	display: grid;
+         	grid-template-columns: 4fr 4fr;
+         	margin: 40px 100px 40px 100px;
+            
+         }
+
+         .expert0 .expert3
+         {
+         	border: 0.5px solid red;
+          display: flex;
+         }
+         .expert3 .ex3
+         {
+          width: 50%;
+          background:url(../RR/image/autism-at-work-landing-image.jpg);
+          background-size: 100% 100%;
+         }
+          .expert3 .ex33
+         {
+          width: 50%;
+          font-size: 15px;
+          padding: 20px;
+          color: blue;
+         }
+         .ex33 .e5
+         {
+          font-size: 25px;
+          margin-bottom: 10px;
+         }
+          .ex33 .e6
+         {
+          font-size: 20px;
+          color: black;
+         }
+          .ex33 .e6:hover
+         {
+          font-size: 20px;
+          color:white;
+         }
+          .expert3 .ex33:hover
+         {
+          background: blue;
+          color: white;
+         }
+          .expert0 .expert4
+          {
+         	border: 0.5px solid red;
+         	margin-left: 20px;
+         	display: flex;
+         }
+          .expert4 .ex4
+         {
+          width: 50%;
+          background:url(../RR/image/stuart-landing-image.jpg);
+          background-size: 100% 100%;
+         }
+          .expert4 .ex44
+         {
+          width: 50%;
+          font-size: 15px;
+          padding: 20px;
+          color: blue;
+         }
+         .ex44 .e7
+         {
+          font-size: 25px;
+          margin-bottom: 10px;
+         }
+          .ex44 .e8
+         {
+          font-size: 20px;
+          color: black;
+         }
+          .ex44 .e8:hover
+         {
+          font-size: 20px;
+          color:white;
+         }
+          .expert4 .ex44:hover
+         {
+          background: blue;
+          color: white;
+        }
+
+         .side
+         {
+          height:auto;
+          width: 80%;
+          display: grid;
+          grid-template-columns:2fr 3fr;
+          margin:50px 50px 50px 150px;
+         }
+          .side1
+         {
+         background: hotpink;
+         padding: 80px;
+         font-size: 20px;
+         color: white;
+         }
+          .side2
+         {
+          background:url(../RR/image/v2.jpg);
+          background-size: 100% 100%;
+
+         }
+         .pc 
+         {
+           font-size: 40px;
+           text-align: center;
+           margin-top:30px;
+           margin-bottom: 20px;
+         }
+         .we 
+         {
+           font-size: 30px;
+           text-align: center;
+           margin-bottom: 10px;
+         }
+         .and
+         {
+           font-size: 30px;
+           text-align: center;
+         }
+
+
+         .pic 
+         {
+          height:300px;
+          width: 90%;
+          display: grid;
+          grid-template-columns: 1fr 1fr 1fr;
+          margin:30px 0px 0px 80px;
+          
+         }
+         .pic1
+         {
+          background:url(../RR/image/civil-aerospace-new-1.jpg);
+          background-size: 100% 100%;
+          margin-right: 30px;
+           color: white;
+           font-size: 30px;
+           padding: 30px 30px;
+         }
+           .pic2
+         {
+           background:url(../RR/image/defence-new-1.jpg);
+          background-size: 120% 120%;
+           margin-right: 30px;
+            color: white;
+            font-size: 30px;
+           padding: 30px 30px;
+           /*background-repeat: no-repeat;
+           transition: 1s;
+           background-position: -100px 0px;
+         }
+         .pic2:hover
+         {
+          background-position: 100px 0px;*/
+         }
+         .pic3
+         {
+          background:url(../RR/image/power-systems-new-1.jpg);
+          background-size: 100% 100%;
+           color: white;
+           font-size: 30px;
+           padding: 30px 30px;
+         }
+     .spic 
+         {
+          height: 300px;
+          width: 28%;
+          display: grid;
+          grid-template-columns: 1fr;
+          margin:20px 0px 0px 520px;
+          
+         }
+         .spic1
+         {
+           background:url(../RR/image/ps-electrical.jpg);
+          background-size: 100% 100%;
+          color: white;
+         font-size: 30px;
+           padding: 30px 30px;
+         }
+
+         .last
+         {
+          height:auto;
+          display: grid;
+          grid-template-columns: 2fr 1fr 1fr 2fr;
+          margin-top: 30px;
+          background: blue;
+
+         }
+         .la1
+         {
+          height: 300px;
+          font-size: 12px;
+          padding: 20px 40px;
+          color: white;
+         }
+          .la2
+         {
+           height: 300px;
+         }
+         .la2 ul li
+         {
+          list-style: none;
+           margin-bottom: 10px;
+         }
+         
+          .la2 ul li a
+          {
+            text-decoration: none;
+            font-size: 15px;
+            color: white;
+         }
+         .la2 ul li a:hover
+         {
+          color: red;
+         }
+          .la3
+         {
+           height: 300px;
+         }
+          .la3 ul li
+         {
+          list-style: none;
+           margin-bottom: 10px;
+         }
+         
+          .la3 ul li a
+          {
+            text-decoration: none;
+            font-size: 15px;
+            color: white;
+         }
+         .la3 ul li a:hover
+         {
+          color: red;
+        }
+          .la4
+         {
+           height: 300px;
+         }
+         .la4 .la41
+         {
+          margin: 20px 80px;
+          color: white;
+          font-weight: bold;
+          font-size: 20px;
+         }
+          .la4 .la42
+          {
+            height: 40px;
+            
+          }
+          .in
+          {
+            margin: 20px 0px 10px 80px;
+            font-size: 20px;
+            color: white;
+          }
+          .up
+          {
+             margin: 20px 0px 10px 80px;
+            font-size: 20px;
+            color: white;
+          }
+          .as 
+          {
+             margin: 20px 0px 10px 80px;
+            font-size: 20px;
+            color: white;
+          }
+          .r
+          {
+             margin: 20px 0px 10px 80px;
+            font-size: 20px;
+            color: white;
+          }
+          .l 
+          {
+            height: 100px;
+            display: flex;
+           
+          }
+          .l .ll1
+          {
+            height: 100px;
+            width: 30px;
+            background: url(../RR/image/safari-pinned-tab-rebrand.svg);
+            background-size: 100% 100%;
+            color: white;
+            margin-left: 30px;
+          }
+           .l .ll2
+           {
+            margin-left: 30px;
+            padding-top: 50px;
+            color: white;
+           }

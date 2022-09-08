@@ -1,0 +1,466 @@
+ @media screen and (max-width: 1490px)
+     {
+           
+          
+              #ad .edu
+             {
+              text-align: center;
+              font-size: 40px;
+              padding-top: 30px;
+              color: red;
+             }
+             #ad .g 
+             {
+              height: 50px;
+              margin-top: 35px;
+              padding-left: 15px;
+             }
+            #ad .g .g1
+             {
+              height: 50px;
+              width: 30%;
+              padding-left: 40px;
+              font-size: 15px;
+             }
+             .fa-graduation-cap
+             {
+              font-size: 30px;
+              color: white;
+              margin-right: 0px;
+             }
+              #ad .g .course
+             {
+              font-size: 25px;
+              color: lightyellow;
+              padding-left: 40px;
+              font-size: 20px;
+             }
+              .picture .pic 
+             {
+              height: 580px; 
+              width: 35%;
+              margin-left: 0px;
+             }
+              
+}
+
+ 
+ @media screen and (max-width: 1150px)
+     {
+           
+          
+              #ad .edu
+             {
+              text-align: center;
+              font-size: 40px;
+              padding-top: 30px;
+              color: red;
+             }
+             #ad .g 
+             {
+              height: 50px;
+              margin-top: 35px;
+              padding-left: 15px;
+             }
+            #ad .g .g1
+             {
+              height: 50px;
+              width: 30%;
+              padding-left: 40px;
+              font-size: 15px;
+             }
+             .fa-graduation-cap
+             {
+              font-size: 30px;
+              color: white;
+              margin-right: 0px;
+             }
+              #ad .g .course
+             {
+              font-size: 25px;
+              color: lightyellow;
+              padding-left: 40px;
+              font-size: 20px;
+             }
+            
+              .picture .pic 
+             {
+              height: 580px; 
+              width: 35%;
+              margin-left: 0px;
+             }
+             
+}
+
+ @media screen and (max-width: 1000px)
+     {
+            
+             .picture #home .hey
+             {
+              font-size: 20px;
+               margin-bottom: 20px; 
+               margin-top: 50px;
+               color: white;
+             }
+              .picture #home .shalin
+             {
+              font-size: 50px; 
+              margin-bottom: 20px; 
+             }
+              #home .develop
+             {
+              font-size: 25px; 
+              margin-bottom: 25px; 
+              color: white;
+             }
+            
+              .picture #home .hire
+             {
+              width: 130px;
+              padding-left: 10px;
+               font-size: 25px;
+               margin-bottom: 20px;
+                color: white;
+              border: 2px solid red;
+             }
+              #ad .edu
+             {
+              text-align: center;
+              font-size: 40px;
+              padding-top: 30px;
+              color: white;
+             }
+             #ad .g 
+             {
+              height: 50px;
+              margin-top: 35px;
+              padding-left: 15px;
+             }
+            #ad .g .g1
+             {
+              height: 50px;
+              width: 30%;
+              padding-left: 30px;
+              font-size: 15px;
+             }
+             .fa-graduation-cap
+             {
+              font-size: 20px;
+              color: white;
+             }
+             #ad .g .course
+             {
+              font-size: 25px;
+              color: lightyellow;
+              padding-left: 40px;
+              font-size: 20px;
+             }
+             #port .gra
+             {
+              font-size: 20px;
+              padding-left: 20px;
+              padding-top: 10px;
+              margin-left: 250px;
+             }
+             #port .ll .l6
+             {
+              height: 150px;
+              width: 25%;
+           
+               margin-left:130px;
+              text-align: center;
+               line-height:150px;
+             }
+}
+@media screen and (max-width: 900px)
+     {
+
+           body .picture
+             {
+              height: 580px;
+              width: 90%;
+              margin-top:30px;
+              margin-left: 40px;
+             
+             }
+     
+             body .picture #home
+             {
+              height: 580px;
+              width:100%;
+              padding: 80px 0px 0px 150px;
+             }
+            
+            .picture #home .hey
+             {
+
+              font-size: 30px;
+               margin-bottom: 20px; 
+               color: white;
+             }
+                .picture #home .shalin
+             {
+              font-size: 80px; 
+              margin-bottom: 20px; 
+              color: white;
+             }
+               .picture  #home .develop
+             {
+              font-size: 25px; 
+              margin-bottom: 25px; 
+              color: white;
+             }
+            
+              .picture  #home .hire
+             {
+              width: 130px;
+              padding-left: 5px;
+               font-size: 30px;
+               margin-bottom: 20px;
+                color: white;
+              border: 2px solid red;
+             }
+           .picture .pic 
+             {
+           
+              display: none;
+             }
+              #ad .edu
+             {
+              
+              text-align: center;
+              font-size: 40px;
+              padding-top: 30px;
+              color: green;
+             }
+             #ad .g 
+             {
+
+              height: 50px;
+              margin-top: 35px;
+              padding-left: 10px;
+             }
+            #ad .g .g1
+             {
+              height: 50px;
+              width: 30%;
+              padding-left: 10px;
+              font-size: 15px;
+             }
+             .fa-graduation-cap
+             {
+              font-size: 20px;
+              color: white;
+               margin-right: 0px;
+             }
+             #ad .g .course
+             {
+              font-size: 25px;
+              color: lightyellow;
+              padding-left: 30px;
+              font-size: 20px;
+             }
+             .uni
+             {
+                font-size: 40px;
+                color: darkgray;
+                padding-left:100px;
+                padding-top: 20px;
+             }
+
+}
+
+
+@media screen and (max-width: 800px)
+     {
+           body .picture
+             {
+              height: 580px;
+              width: 90%;
+              margin-top:30px;
+              margin-left: 40px;
+             
+             }
+     
+             body .picture #home
+             {
+              height: 580px;
+              width:100%;
+              padding: 80px 0px 0px 100px;
+             }
+            .picture #home .hey
+             {
+
+              font-size: 30px;
+               margin-bottom: 20px; 
+               color: white;
+             }
+                .picture #home .shalin
+             {
+              font-size: 75px; 
+              margin-bottom: 20px; 
+              color: white;
+             }
+               .picture  #home .develop
+             {
+              font-size: 25px; 
+              margin-bottom: 25px; 
+              color: white;
+             }
+            
+              .picture  #home .hire
+             {
+              width: 130px;
+              padding-left: 5px;
+               font-size: 30px;
+               margin-bottom: 20px;
+                color: white;
+              border: 2px solid red;
+             }
+           .picture .pic 
+             {
+              display: none;
+             }
+
+
+
+
+
+
+
+
+ @media screen and (max-width: 600px)
+     {
+           body .picture
+             {
+              height: 580px;
+              width: 90%;
+              margin-top:30px;
+              margin-left: 30px;
+             margin-bottom: 30px;
+             }
+     
+             body .picture #home
+             {
+              height: 580px;
+              width:100%;
+              padding: 80px 0px 0px 50px;
+          
+             }
+            .picture #home .hey
+             {
+
+              font-size: 30px;
+               margin-bottom: 20px; 
+               color: white;
+             }
+                .picture #home .shalin
+             {
+              font-size: 75px; 
+              margin-bottom: 20px; 
+              color: white;
+             }
+               .picture  #home .develop
+             {
+              font-size: 25px; 
+              margin-bottom: 25px; 
+              color: white;
+             }
+            
+              .picture  #home .hire
+             {
+              width: 130px;
+              padding-left: 5px;
+               font-size: 30px;
+               margin-bottom: 20px;
+                color: white;
+              border: 2px solid red;
+             }
+           .picture .pic 
+             {
+              display: none;
+             }
+
+
+ @media screen and (max-width: 550px)
+     {
+           body .picture
+             {
+              height: 550px;
+              width: 90%;
+              margin-top:30px;
+              margin-left: 30px;
+             margin-bottom: 30px;
+             }
+     
+             body .picture #home
+             {
+              height: 500px;
+              width:100%;
+              padding: 50px 0px 0px 30px;
+             }
+            .picture #home .hey
+             {
+
+              font-size: 25px;
+               margin-bottom: 20px; 
+               color: white;
+             }
+                .picture #home .shalin
+             {
+              font-size: 60px; 
+              margin-bottom: 20px; 
+              color: white;
+             }
+               .picture  #home .develop
+             {
+              font-size: 25px; 
+              margin-bottom: 25px; 
+              color: white;
+             }
+            
+              .picture  #home .hire
+             {
+              width: 100px;
+              padding-left: 10px;
+               font-size: 20px;
+               margin-bottom: 20px;
+                color: white;
+              border: 2px solid red;
+             }
+              #home #ad .g .g1
+             {
+              height: 40px;
+              width: 30%;
+              padding-left: 10px;
+              padding-top: 5px;
+              font-size: 10px;
+             }
+             #home #ad .g .g1 .fa-graduation-cap
+             {
+              font-size: 20px;
+              margin-right: 0px;
+             }
+             #home #ad .g .course
+             {
+              font-size: 15px;
+              padding-left: 20px;
+             }
+               #home #ad .uni
+             {
+                font-size: 30px;
+                padding-left:50px;
+                padding-top: 20px;
+             }
+              #port .gra
+             {
+              font-size: 20px;
+              padding-left: 20px;
+              padding-top: 30px;
+              margin-left: 150px;
+             }
+           .picture .pic 
+             {
+              display: none;  
+             }
+}

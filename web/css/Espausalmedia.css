@@ -1,0 +1,2629 @@
+@media screen and (max-width: 1400px)
+{
+	.first
+{
+	height: 700px;
+	width: 100%;
+}
+.first .fix
+{
+	height: 300px;
+	width: 100px;
+   margin-left: 1270px;
+   margin-top: 60px;
+}
+.first .espousal
+{
+	height: 60px;
+	width: 50%;
+	font-size: 40px;
+	padding: 15px 70px;
+}
+.first .content
+{
+	height: 60px;
+	width: 50%;
+	padding-top: 10px;
+	padding-left: 100px;
+}
+.content ul li a 
+{
+	text-decoration: none;
+	font-size: 20px;
+	margin-right: 15px;
+	color:white;
+}
+.first .head
+{
+	font-size: 40px;
+	padding-top: 250px;
+}
+.first .prag
+{
+	font-size: 20px;
+	text-align: center;
+	padding-top: 20px;
+}
+.first .prag1
+{
+	font-size: 20px;
+	text-align: center;
+	padding-top: 10px;
+}
+.second .s1 
+{
+	height: 500px;
+	width: 50%;
+}
+.s1 .best
+{
+	height: 50px;
+	width: 100%;
+	font-size: 30px;
+	padding-top: 20px;
+	padding-left:0px;	
+}
+.s1 .s3
+{
+	height: 40px;
+	width: 100%;
+	margin-top:20px ;
+}
+.s3 .wed
+{
+	font-size: 30px;
+	width: 60%;
+	padding-left: 180px;
+}
+.s3 .wed1
+{
+	font-size: 15px;
+	width: 40%;
+	padding-top: 20px;
+	padding-left:0px;
+}
+.s1 .s4
+{ 
+	width: 220px;
+	font-size: 20px;
+	margin-left: 140px;
+	margin-top: 30px;
+}
+.s1 .s5
+{
+	padding-left: 120px;
+	margin-top: 20px;
+	font-size:20px
+} 
+.second .s2 
+{
+	height: 400px;
+	width: 40%;
+	margin-left: 0px;
+   margin-top: 50px;
+}
+.third
+{
+	height:550px;
+	width: 100%;
+}
+.third .our
+{
+	font-size: 50px;
+	padding-top: 100px;
+	padding-left: 100px;
+}
+.third .third1
+{
+	height: 250px;
+	width: 90%;
+	margin-top: 40px;
+	margin-left: 100px;
+}
+.third1 .photo
+{
+	height: 250px;
+	width: 30%;
+	margin-right: 20px;
+	font-size: 20px;
+	
+}
+.third1 .flower
+{
+	height: 250px;
+	width: 30%;
+	margin-right: 20px;
+	font-size: 20px;
+	
+}
+.third1 .car
+{
+	height: 250px;
+	width: 30%;
+	margin-right: 20px;
+	font-size: 20px;
+	
+}
+.picture .pic1
+{
+	height: 600px;
+	width: 30%;
+	padding-left:80px;
+}
+.pic1 .hug
+{
+	height: 150px;
+	width: 80%;
+	margin-bottom: 20px;
+}
+.pic1 .ring
+{
+	height: 150px;
+	width: 80%;
+}
+.picture .pic2
+{
+	height: 600px;
+	width: 40%;
+}
+.pic2 .ful
+{
+	height: 300px;
+	margin-bottom: 20px;
+}
+.pic2 .dived
+{
+	height: 150px;
+	margin-top: 40px;
+}
+.dived .decky
+{
+	height: 150px;
+	width: 45%;
+	margin-right: 35px;
+}
+.dived .sit
+{
+	height: 150px;
+	width: 45%;
+}
+.picture .pic3
+{
+	height: 600px;
+	width: 30%;
+	padding-left: 50px;	
+}
+.pic3 .stand
+{
+	height: 150px;
+	width: 80%;
+	margin-bottom: 20px;
+}
+.pic3 .dish
+{
+	height: 150px;
+	width: 80%;
+}
+.part5 .date input
+{
+   height: 40px;
+   width: 450px;
+   background: transparent;
+   border: 2px solid white;
+}
+.part5 .name input
+{
+   height: 40px;
+   width: 450px;
+   background: transparent;
+   border: 2px solid white;
+}
+.part5 .mail input
+{
+   height: 40px;
+   width: 450px;
+   background: transparent;
+   border: 2px solid white;
+}
+.part5 .message input
+{
+   height: 40px;
+   width: 450px;
+   background: transparent;
+   border: 2px solid white;
+}
+.part5 .booking input
+{
+   height: 40px;
+   width: 450px;
+   background: red;
+   text-align: center;
+   color: white;
+}
+.part6 .part61
+{
+	height: 300px;
+	width: 30%;
+	margin-right: 30px;
+}
+.part61 .july
+{
+	padding-top: 40px;
+	font-size: 15px;
+	padding-left: 25px;
+}
+.part61 .shower
+{
+	padding-top: 10px;
+	font-size: 20px;
+	color: red;
+	padding-left: 25px;
+}
+.part61 .null
+{
+	font-size: 15px;
+	padding:20px 25px;
+}
+.part6 .part62
+{
+	height: 300px;
+	width: 30%;
+	margin-right: 30px;	
+}
+.part62 .july12
+{
+	padding-top: 40px;
+	font-size: 15px;
+	padding-left: 25px;
+}
+.part62 .cere
+{
+	padding-top: 10px;
+	font-size: 20px;
+	color: red;
+	padding-left: 25px;
+}
+.part62 .null1
+{
+	font-size: 15px;
+	padding:20px 25px;
+}
+.part6 .part63
+{
+	height: 300px;
+	width: 30%;
+}
+.part63 .july25
+{
+	padding-top: 40px;
+	font-size: 15px;
+	padding-left: 25px;
+}
+.part63 .trip
+{
+	padding-top: 10px;
+	font-size: 20px;
+	color: red;
+	padding-left: 25px;
+}
+.part63 .null2
+{
+	font-size: 15px;
+	padding:20px 25px;
+}
+.last .last1
+{
+	height: 850px;
+	width:100%;
+	padding-bottom: 150px;
+	padding-right: 50px;
+	padding-left: 100px;
+}
+.last1 .row1
+{
+	height: 350px;
+	width: 50%;
+}
+.last1 .row2
+{
+	height: 350px;
+	width: 50%;
+}
+.last1 .row3
+{
+	height: 350px;
+	width: 50%;
+	margin-top: -100px;
+}
+.last1 .row4
+{
+	height: 350px;
+	width: 50%;
+	margin-top: -100px;
+}
+.last .last2
+{
+	height:1px;
+	width:80%;
+	background:white;
+	border: 1px solid white;
+	margin-top:-250px;
+		margin-left: 50px;
+}
+.last .last3
+{
+	height: 40px;
+	width:100%;
+	padding-left: 50px;
+	padding-top: 10px;
+	color: white;
+}
+}
+
+
+
+
+
+
+
+@media screen and (max-width: 1200px)
+{
+	.first
+{
+	height: 700px;
+	width: 100%;
+}
+.first .fix
+{
+	height: 300px;
+	width: 100px;
+   margin-left: 1040px;
+   margin-top: 60px;
+}
+.first .espousal
+{
+	height: 60px;
+	width: 50%;
+	font-size: 40px;
+	padding: 15px 70px;
+}
+.first .content
+{
+	height: 60px;
+	width: 50%;
+	padding-top: 10px;
+	padding-left: 0px;
+}
+.content ul li a 
+{
+	text-decoration: none;
+	font-size: 20px;
+	margin-right: 15px;
+	color:blue;
+}
+.first .head
+{
+	font-size: 40px;
+	padding-top: 250px;
+}
+.first .prag
+{
+	font-size: 20px;
+	text-align: center;
+	padding-top: 20px;
+}
+.first .prag1
+{
+	font-size: 20px;
+	text-align: center;
+	padding-top: 10px;
+}
+.second .s1 
+{
+	height: 500px;
+	width: 50%;
+}
+.s1 .best
+{
+	height: 50px;
+	width: 100%;
+	font-size: 30px;
+	padding-top: 20px;
+	padding-left:0px;	
+}
+.s1 .s3
+{
+	height: 40px;
+	width: 100%;
+	margin-top:20px ;
+}
+.s3 .wed
+{
+	font-size: 30px;
+	width: 60%;
+	padding-left: 100px;
+}
+.s3 .wed1
+{
+	font-size: 15px;
+	width: 40%;
+	padding-top: 20px;
+	padding-left:0px;
+}
+.s1 .s4
+{ 
+	width: 220px;
+	font-size: 20px;
+	margin-left: 140px;
+	margin-top: 30px;
+}
+.s1 .s5
+{
+	padding-left: 120px;
+	margin-top: 20px;
+	font-size:20px
+} 
+.second .s2 
+{
+	height: 400px;
+	width: 40%;
+	margin-left: 0px;
+   margin-top: 50px;
+}
+.third
+{
+	height:550px;
+	width: 100%;
+}
+.third .our
+{
+	font-size: 50px;
+	padding-top: 100px;
+	padding-left: 100px;
+}
+.third .third1
+{
+	height: 250px;
+	width: 90%;
+	margin-top: 40px;
+	margin-left: 100px;
+}
+.third1 .photo
+{
+	height: 250px;
+	width: 30%;
+	margin-right: 20px;
+	font-size: 20px;
+	
+}
+.third1 .flower
+{
+	height: 250px;
+	width: 30%;
+	margin-right: 20px;
+	font-size: 20px;
+	
+}
+.third1 .car
+{
+	height: 250px;
+	width: 30%;
+	margin-right: 20px;
+	font-size: 20px;
+	
+}
+.picture .pic1
+{
+	height: 600px;
+	width: 30%;
+	padding-left:80px;
+}
+.pic1 .hug
+{
+	height: 150px;
+	width: 80%;
+	margin-bottom: 20px;
+}
+.pic1 .ring
+{
+	height: 150px;
+	width: 80%;
+}
+.picture .pic2
+{
+	height: 600px;
+	width: 40%;
+}
+.pic2 .ful
+{
+	height: 300px;
+	margin-bottom: 20px;
+}
+.pic2 .dived
+{
+	height: 150px;
+	margin-top: 40px;
+}
+.dived .decky
+{
+	height: 150px;
+	width: 45%;
+	margin-right: 35px;
+}
+.dived .sit
+{
+	height: 150px;
+	width: 45%;
+}
+.picture .pic3
+{
+	height: 600px;
+	width: 30%;
+	padding-left: 50px;	
+}
+.pic3 .stand
+{
+	height: 150px;
+	width: 80%;
+	margin-bottom: 20px;
+}
+.pic3 .dish
+{
+	height: 150px;
+	width: 80%;
+}
+.part5 .date input
+{
+   height: 40px;
+   width: 450px;
+   background: transparent;
+   border: 2px solid white;
+}
+.part5 .name input
+{
+   height: 40px;
+   width: 450px;
+   background: transparent;
+   border: 2px solid white;
+}
+.part5 .mail input
+{
+   height: 40px;
+   width: 450px;
+   background: transparent;
+   border: 2px solid white;
+}
+.part5 .message input
+{
+   height: 40px;
+   width: 450px;
+   background: transparent;
+   border: 2px solid white;
+}
+.part5 .booking input
+{
+   height: 40px;
+   width: 450px;
+   background: red;
+   text-align: center;
+   color: white;
+}
+.part6 .part61
+{
+	height: 300px;
+	width: 30%;
+	margin-right: 30px;
+}
+.part61 .july
+{
+	padding-top: 40px;
+	font-size: 15px;
+	padding-left: 25px;
+}
+.part61 .shower
+{
+	padding-top: 10px;
+	font-size: 20px;
+	color: red;
+	padding-left: 25px;
+}
+.part61 .null
+{
+	font-size: 15px;
+	padding:20px 25px;
+}
+.part6 .part62
+{
+	height: 300px;
+	width: 30%;
+	margin-right: 30px;	
+}
+.part62 .july12
+{
+	padding-top: 40px;
+	font-size: 15px;
+	padding-left: 25px;
+}
+.part62 .cere
+{
+	padding-top: 10px;
+	font-size: 20px;
+	color: red;
+	padding-left: 25px;
+}
+.part62 .null1
+{
+	font-size: 15px;
+	padding:20px 25px;
+}
+.part6 .part63
+{
+	height: 300px;
+	width: 30%;
+}
+.part63 .july25
+{
+	padding-top: 40px;
+	font-size: 15px;
+	padding-left: 25px;
+}
+.part63 .trip
+{
+	padding-top: 10px;
+	font-size: 20px;
+	color: red;
+	padding-left: 25px;
+}
+.part63 .null2
+{
+	font-size: 15px;
+	padding:20px 25px;
+}
+.last .last1
+{
+	height: 850px;
+	width:100%;
+	padding-bottom: 150px;
+	padding-right: 50px;
+	padding-left: 100px;
+}
+.last1 .row1
+{
+	height: 350px;
+	width: 50%;
+}
+.last1 .row2
+{
+	height: 350px;
+	width: 50%;
+}
+.last1 .row3
+{
+	height: 350px;
+	width: 50%;
+	margin-top: -100px;
+}
+.last1 .row4
+{
+	height: 350px;
+	width: 50%;
+	margin-top: -100px;
+}
+.last .last2
+{
+	height:1px;
+	width:80%;
+	background:white;
+	border: 1px solid white;
+	margin-top:-250px;
+		margin-left: 50px;
+}
+.last .last3
+{
+	height: 40px;
+	width:100%;
+	padding-left: 50px;
+	padding-top: 10px;
+	color: white;
+}
+}
+
+
+
+
+
+
+@media screen and (max-width: 980px)
+{
+	.first
+{
+	height: 700px;
+	width: 100%;
+}
+.first .fix
+{
+	height: 300px;
+	width: 100px;
+   margin-left: 850px;
+   margin-top: 60px;
+}
+.first .espousal
+{
+	height: 60px;
+	width: 50%;
+	font-size: 40px;
+	padding: 15px 70px;
+}
+.first .content
+{
+	height: 60px;
+	width: 50%;
+	padding-top: 10px;
+	padding-left: 0px;
+}
+.content ul li a 
+{
+	text-decoration: none;
+	font-size: 15px;
+	margin-right: 12px;
+	color:white;
+}
+.first .head
+{
+	font-size: 40px;
+	padding-top: 250px;
+}
+.first .prag
+{
+	font-size: 15px;
+	text-align: center;
+	padding-top: 20px;
+}
+.first .prag1
+{
+	font-size: 15px;
+	text-align: center;
+	padding-top: 10px;
+}
+.second .s1 
+{
+	height: 500px;
+	width: 50%;
+}
+.s1 .best
+{
+	height: 50px;
+	width: 100%;
+	font-size: 30px;
+	padding-top: 20px;
+	padding-left:0px;	
+}
+.s1 .s3
+{
+	height: 40px;
+	width: 100%;
+	margin-top:20px ;
+}
+.s3 .wed
+{
+	font-size: 30px;
+	width: 60%;
+	padding-left: 60px;
+}
+.s3 .wed1
+{
+	font-size: 15px;
+	width: 40%;
+	padding-top: 20px;
+	padding-left:0px;
+}
+
+}
+
+
+
+
+@media screen and (max-width: 950px)
+{
+	.first
+{
+	height: 700px;
+	width: 100%;
+}
+.first .fix
+{
+	height: 300px;
+	width: 100px;
+   margin-left: 824px;
+   margin-top: 60px;
+}
+.first .espousal
+{
+	height: 60px;
+	width: 50%;
+	font-size: 30px;
+	padding: 15px 70px;
+}
+.first .content
+{
+	height: 60px;
+	width: 50%;
+	padding-top: 10px;
+	padding-left: 20px;
+}
+.content ul li a 
+{
+	text-decoration: none;
+	font-size: 12px;
+	margin-right: 10px;
+}
+.first .head
+{
+	font-size: 40px;
+	padding-top: 250px;
+}
+.first .prag
+{
+	font-size: 20px;
+	text-align: center;
+	padding-top: 20px;
+}
+.first .prag1
+{
+	font-size: 20px;
+	text-align: center;
+	padding-top: 10px;
+}
+.second .s1 
+{
+	height: 500px;
+	width: 50%;
+}
+.s1 .best
+{
+	height: 50px;
+	width: 100%;
+	font-size: 30px;
+	padding-top: 20px;
+	padding-left:0px;	
+}
+.s1 .s3
+{
+	height: 40px;
+	width: 100%;
+	margin-top:20px ;
+}
+.s3 .wed
+{
+	font-size: 30px;
+	width: 60%;
+	padding-left: 70px;
+}
+.s3 .wed1
+{
+	font-size: 15px;
+	width: 40%;
+	padding-top: 20px;
+	padding-left:0px;
+}
+.s1 .s4
+{ 
+	width: 220px;
+	font-size: 20px;
+	margin-left: 70px;
+	margin-top: 30px;
+}
+.s1 .s5
+{
+	padding-left: 100px;
+	margin-top: 20px;
+	font-size:20px
+} 
+.second .s2 
+{
+	height: 400px;
+	width: 40%;
+	margin-left: 0px;
+   margin-top: 50px;
+}
+.third
+{
+	height:550px;
+	width: 100%;
+}
+.third .our
+{
+	font-size: 50px;
+	padding-top: 100px;
+	padding-left: 100px;
+}
+.third .third1
+{
+	height: 250px;
+	width: 90%;
+	margin-top: 40px;
+	margin-left: 100px;
+}
+.third1 .photo
+{
+	height: 250px;
+	width: 30%;
+	margin-right: 20px;
+	font-size: 20px;
+	
+}
+.third1 .flower
+{
+	height: 250px;
+	width: 30%;
+	margin-right: 20px;
+	font-size: 20px;
+	
+}
+.third1 .car
+{
+	height: 250px;
+	width: 30%;
+	margin-right: 20px;
+	font-size: 20px;
+	
+}
+.picture .pic1
+{
+	height: 600px;
+	width: 30%;
+	padding-left:80px;
+}
+.pic1 .hug
+{
+	height: 150px;
+	width: 80%;
+	margin-bottom: 20px;
+}
+.pic1 .ring
+{
+	height: 150px;
+	width: 80%;
+}
+.picture .pic2
+{
+	height: 600px;
+	width: 40%;
+}
+.pic2 .ful
+{
+	height: 300px;
+	margin-bottom: 20px;
+}
+.pic2 .dived
+{
+	height: 150px;
+	margin-top: 40px;
+}
+.dived .decky
+{
+	height: 150px;
+	width: 45%;
+	margin-right: 35px;
+}
+.dived .sit
+{
+	height: 150px;
+	width: 45%;
+}
+.picture .pic3
+{
+	height: 600px;
+	width: 30%;
+	padding-left: 50px;	
+}
+.pic3 .stand
+{
+	height: 150px;
+	width: 80%;
+	margin-bottom: 20px;
+}
+.pic3 .dish
+{
+	height: 150px;
+	width: 80%;
+}
+.part5 .date input
+{
+   height: 40px;
+   width: 450px;
+   background: transparent;
+   border: 2px solid white;
+}
+.part5 .name input
+{
+   height: 40px;
+   width: 450px;
+   background: transparent;
+   border: 2px solid white;
+}
+.part5 .mail input
+{
+   height: 40px;
+   width: 450px;
+   background: transparent;
+   border: 2px solid white;
+}
+.part5 .message input
+{
+   height: 40px;
+   width: 450px;
+   background: transparent;
+   border: 2px solid white;
+}
+.part5 .booking input
+{
+   height: 40px;
+   width: 450px;
+   background: red;
+   text-align: center;
+   color: white;
+}
+.part6 .part61
+{
+	height: 300px;
+	width: 30%;
+	margin-right: 30px;
+}
+.part61 .july
+{
+	padding-top: 40px;
+	font-size: 15px;
+	padding-left: 25px;
+}
+.part61 .shower
+{
+	padding-top: 10px;
+	font-size: 20px;
+	color: red;
+	padding-left: 25px;
+}
+.part61 .null
+{
+	font-size: 15px;
+	padding:20px 25px;
+}
+.part6 .part62
+{
+	height: 300px;
+	width: 30%;
+	margin-right: 30px;	
+}
+.part62 .july12
+{
+	padding-top: 40px;
+	font-size: 15px;
+	padding-left: 25px;
+}
+.part62 .cere
+{
+	padding-top: 10px;
+	font-size: 20px;
+	color: red;
+	padding-left: 25px;
+}
+.part62 .null1
+{
+	font-size: 15px;
+	padding:20px 25px;
+}
+.part6 .part63
+{
+	height: 300px;
+	width: 30%;
+}
+.part63 .july25
+{
+	padding-top: 40px;
+	font-size: 15px;
+	padding-left: 25px;
+}
+.part63 .trip
+{
+	padding-top: 10px;
+	font-size: 20px;
+	color: red;
+	padding-left: 25px;
+}
+.part63 .null2
+{
+	font-size: 15px;
+	padding:20px 25px;
+}
+.last .last1
+{
+	height: 850px;
+	width:100%;
+	padding-bottom: 150px;
+	padding-right: 50px;
+	padding-left: 100px;
+}
+.last1 .row1
+{
+	height: 350px;
+	width: 50%;
+}
+.last1 .row2
+{
+	height: 350px;
+	width: 50%;
+}
+.last1 .row3
+{
+	height: 350px;
+	width: 50%;
+	margin-top: -100px;
+}
+.last1 .row4
+{
+	height: 350px;
+	width: 50%;
+	margin-top: -100px;
+}
+.last .last2
+{
+	height:1px;
+	width:80%;
+	background:white;
+	border: 1px solid white;
+	margin-top:-250px;
+		margin-left: 50px;
+}
+.last .last3
+{
+	height: 40px;
+	width:100%;
+	padding-left: 50px;
+	padding-top: 10px;
+	color: white;
+}
+}
+
+
+
+
+
+
+@media screen and (max-width: 880px)
+{
+	.first
+{
+	height: 700px;
+	width: 100%;
+}
+.first .fix
+{
+	height: 300px;
+	width: 100px;
+   margin-left: 764px;
+   margin-top: 60px;
+}
+.first .espousal
+{
+	height: 60px;
+	width: 50%;
+	font-size: 30px;
+	padding: 15px 70px;
+}
+.first .content
+{
+	height: 60px;
+	width: 50%;
+	padding-top: 10px;
+	padding-left: 20px;
+}
+.content ul li a 
+{
+	text-decoration: none;
+	font-size: 12px;
+	margin-right: 10px;
+	color:white;
+}
+.first .head
+{
+	font-size: 40px;
+	padding-top: 250px;
+}
+.first .prag
+{
+	font-size: 15px;
+	text-align: center;
+	padding-top: 20px;
+}
+.first .prag1
+{
+	font-size: 15px;
+	text-align: center;
+	padding-top: 10px;
+}
+.second .s1 
+{
+	height: 500px;
+	width: 50%;
+}
+.s1 .best
+{
+	height: 50px;
+	width: 100%;
+	font-size: 30px;
+	padding-top: 20px;
+	padding-left:0px;	
+}
+.s1 .s3
+{
+	height: 40px;
+	width: 100%;
+	margin-top:20px ;
+}
+.s3 .wed
+{
+	font-size: 30px;
+	width: 60%;
+	padding-left: 40px;
+}
+.s3 .wed1
+{
+	font-size: 15px;
+	width: 40%;
+	padding-top: 20px;
+	padding-left:0px;
+}
+.s1 .s4
+{ 
+	width: 220px;
+	font-size: 20px;
+	margin-left: 70px;
+	margin-top: 30px;
+}
+.s1 .s5
+{
+	padding-left: 100px;
+	margin-top: 20px;
+	font-size:20px
+} 
+.second .s2 
+{
+	height: 400px;
+	width: 40%;
+	margin-left: 0px;
+   margin-top: 50px;
+}
+.third
+{
+	height:550px;
+	width: 100%;
+}
+.third .our
+{
+	font-size: 50px;
+	padding-top: 100px;
+	padding-left: 100px;
+}
+.third .third1
+{
+	height: 250px;
+	width: 90%;
+	margin-top: 40px;
+	margin-left: 100px;
+}
+.third1 .photo
+{
+	height: 250px;
+	width: 30%;
+	margin-right: 20px;
+	font-size: 20px;
+	
+}
+.third1 .flower
+{
+	height: 250px;
+	width: 30%;
+	margin-right: 20px;
+	font-size: 20px;
+	
+}
+.third1 .car
+{
+	height: 250px;
+	width: 30%;
+	margin-right: 20px;
+	font-size: 20px;
+	
+}
+.picture .pic1
+{
+	height: 600px;
+	width: 30%;
+	padding-left:80px;
+}
+.pic1 .hug
+{
+	height: 150px;
+	width: 80%;
+	margin-bottom: 20px;
+}
+.pic1 .ring
+{
+	height: 150px;
+	width: 80%;
+}
+.picture .pic2
+{
+	height: 600px;
+	width: 40%;
+}
+.pic2 .ful
+{
+	height: 300px;
+	margin-bottom: 20px;
+}
+.pic2 .dived
+{
+	height: 150px;
+	margin-top: 40px;
+}
+.dived .decky
+{
+	height: 150px;
+	width: 42%;
+	margin-right: 45px;
+}
+.dived .sit
+{
+	height: 150px;
+	width: 42%;
+}
+.picture .pic3
+{
+	height: 600px;
+	width: 30%;
+	padding-left: 50px;	
+}
+.pic3 .stand
+{
+	height: 150px;
+	width: 80%;
+	margin-bottom: 20px;
+}
+.pic3 .dish
+{
+	height: 150px;
+	width: 80%;
+}
+.part5 .date input
+{
+   height: 40px;
+   width: 450px;
+   background: transparent;
+   border: 2px solid white;
+}
+.part5 .name input
+{
+   height: 40px;
+   width: 450px;
+   background: transparent;
+   border: 2px solid white;
+}
+.part5 .mail input
+{
+   height: 40px;
+   width: 450px;
+   background: transparent;
+   border: 2px solid white;
+}
+.part5 .message input
+{
+   height: 40px;
+   width: 450px;
+   background: transparent;
+   border: 2px solid white;
+}
+.part5 .booking input
+{
+   height: 40px;
+   width: 450px;
+   background: red;
+   text-align: center;
+   color: white;
+}
+.part6 .part61
+{
+	height: 300px;
+	width: 30%;
+	margin-right: 30px;
+}
+.part61 .july
+{
+	padding-top: 40px;
+	font-size: 15px;
+	padding-left: 25px;
+}
+.part61 .shower
+{
+	padding-top: 10px;
+	font-size: 20px;
+	color: red;
+	padding-left: 25px;
+}
+.part61 .null
+{
+	font-size: 13px;
+	padding:20px 25px;
+}
+.part6 .part62
+{
+	height: 300px;
+	width: 30%;
+	margin-right: 30px;	
+}
+.part62 .july12
+{
+	padding-top: 40px;
+	font-size: 15px;
+	padding-left: 25px;
+}
+.part62 .cere
+{
+	padding-top: 10px;
+	font-size: 20px;
+	color: red;
+	padding-left: 25px;
+}
+.part62 .null1
+{
+	font-size: 13px;
+	padding:20px 25px;
+}
+.part6 .part63
+{
+	height: 300px;
+	width: 30%;
+}
+.part63 .july25
+{
+	padding-top: 40px;
+	font-size: 15px;
+	padding-left: 25px;
+}
+.part63 .trip
+{
+	padding-top: 10px;
+	font-size: 20px;
+	color: red;
+	padding-left: 25px;
+}
+.part63 .null2
+{
+	font-size: 13px;
+	padding:20px 25px;
+}
+.last .last1
+{
+	height: 850px;
+	width:100%;
+	padding-bottom: 150px;
+	padding-right: 50px;
+	padding-left: 100px;
+}
+.last1 .row1
+{
+	height: 350px;
+	width: 50%;
+}
+.last1 .row2
+{
+	height: 350px;
+	width: 50%;
+}
+.last1 .row3
+{
+	height: 350px;
+	width: 50%;
+	margin-top: -100px;
+}
+.last1 .row4
+{
+	height: 350px;
+	width: 50%;
+	margin-top: -100px;
+}
+.last .last2
+{
+	height:1px;
+	width:80%;
+	background:white;
+	border: 1px solid white;
+	margin-top:-250px;
+		margin-left: 50px;
+}
+.last .last3
+{
+	height: 40px;
+	width:100%;
+	padding-left: 50px;
+	padding-top: 10px;
+	color: white;
+}
+}
+
+
+
+
+
+
+
+
+@media screen and (max-width: 780px)
+{
+	.first
+{
+	height: 700px;
+	width: 100%;
+}
+.first .fix
+{
+	height: 300px;
+	width: 100px;
+   margin-left: 675px;
+   margin-top: 60px;
+}
+.first .espousal
+{
+	height: 60px;
+	width: 50%;
+	font-size: 40px;
+	padding: 15px 70px;
+}
+.first .content
+{
+	height: 60px;
+	width: 50%;
+	padding-top: 10px;
+	padding-left: 0px;
+}
+.content ul li a 
+{
+	text-decoration: none;
+	font-size: 15px;
+	margin-right: 12px;
+	color:white;
+}
+.first .head
+{
+	font-size: 40px;
+	padding-top: 250px;
+}
+.first .prag
+{
+	font-size: 15px;
+	text-align: center;
+	padding-top: 20px;
+}
+.first .prag1
+{
+	font-size: 15px;
+	text-align: center;
+	padding-top: 10px;
+}
+.second .s1 
+{
+	height: 500px;
+	width: 50%;
+}
+.s1 .best
+{
+	height: 50px;
+	width: 100%;
+	font-size: 22px;
+	padding-top: 20px;
+	padding-left:0px;	
+}
+.s1 .s3
+{
+	height: 40px;
+	width: 100%;
+	margin-top:20px ;
+}
+.s3 .wed
+{
+	font-size: 25px;
+	width: 60%;
+	padding-left: 40px;
+}
+.s3 .wed1
+{
+	font-size: 15px;
+	width: 40%;
+	padding-top: 20px;
+	padding-left:0px;
+}
+
+}
+
+
+
+
+
+
+@media screen and (max-width: 750px)
+{
+	.first
+{
+	height: 500px;
+	width: 100%;
+}
+.first .fix
+{
+	height: 300px;
+	width: 80px;
+   margin-left: 650px;
+   margin-top: 150px;
+}
+.fix .a
+{
+	color:white;
+	font-size: 30px;
+	padding:20px 30px;
+	border-bottom: 1px solid white;
+}
+.fix .b
+{
+	color:white;
+	font-size: 20px;
+	padding:10px 30px;
+}
+.fix .b1
+{
+	color:white;
+	font-size: 15px;
+	padding:0px 25px;
+	padding-bottom: 10px;
+}
+.fix .download
+{
+	color:white;
+	font-size: 20px;
+		padding:10px 30px;
+}
+.fix .download1
+{
+	color:white;
+	font-size: 15px;
+		padding:0px 10px;
+			padding-bottom: 10px;
+}
+.fix .buy
+{
+	color:white;
+	font-size: 20px;
+		padding:10px 30px;
+}
+.fix .buy1
+{
+	color:white;
+	font-size: 15px;
+	padding:0px 30px;
+}
+.first .espousal
+{
+	height: 60px;
+	width: 100%;
+	font-size: 30px;
+	padding: 15px 70px;
+}
+.first .content
+{
+	height: 60px;
+	width: 100%;
+	padding-top: 10px;
+	padding-left: 250px;
+}
+.content ul li a 
+{
+	text-decoration: none;
+	font-size: 15px;
+	margin-right: 10px;
+	color: lightgray;
+}
+.first .head
+{
+	font-size: 25px;
+	padding-top: 100px;
+}
+.first .prag
+{
+	font-size: 15px;
+	padding: 10px 20px;
+}
+.first .prag1
+{
+	font-size: 15px;
+	padding: 0px 20px;
+}
+.second .s1 
+{
+	height: 350px;
+	width: 100%;
+}
+.second .s2 
+{
+	height: 450px;
+	width: 100%;
+	margin-top: 10px;
+}
+.s1 .s3
+{
+	height: 40px;
+	width: 100%;
+	margin-top:20px ;
+}
+.s3 .wed
+{
+	font-size: 25px;
+	width: 60%;
+	padding-left: 200px;
+}
+.s3 .wed1
+{
+	font-size: 15px;
+	width: 40%;
+	padding-top: 20px;
+	padding-left:0px;
+}
+.third
+{
+	height:550px;
+	width: 100%;
+}
+.third .our
+{
+	font-size: 40px;
+	padding-top:20px;
+	padding-left: 0px;
+}
+.third .third1
+{
+	height: 150px;
+	width: 90%;
+	margin-top: -20px;
+	margin-left: 50px;
+}
+.third1 .photo
+{
+	height: 150px;
+	width: 100%;
+	margin-right: 20px;
+	font-size: 20px;	
+}
+.photo .ph1 
+{
+	height: 75px;
+	padding-top: 60px;
+}
+.photo .ph2
+{
+	height: 75px;
+	padding-top: 30px;
+}
+.photo .ph3 
+{
+	height: 75px;
+}
+.third1 .flower
+{
+	height: 150px;
+	width: 100%;
+	margin-right: 20px;
+	font-size: 20px;
+	
+}
+.flower .f1 
+{
+	height: 75px;
+	padding-top: 60px;
+}
+.flower .f2
+{
+	height: 75px;
+	padding-top: 30px;
+}
+.flower .f3
+{
+	height: 75px;
+}
+.third1 .car
+{
+	height: 150px;
+	width: 100%;
+	margin-right: 20px;
+	font-size: 20px;
+}
+.car .c1 
+{
+	height: 75px;
+	padding-top: 60px;
+}
+.car .c2
+{
+	height: 75px;
+	padding-top: 30px;
+}
+.car .c3
+{
+	height: 75px;
+}
+.picture .pic1
+{
+	height: 600px;
+	width: 100%;
+	padding:30px 40px;
+}
+.pic1 .hug
+{
+	height: 300px;
+	width: 100%;
+	margin-bottom: 30px;
+}
+.pic1 .ring
+{
+	height: 300px;
+	width: 100%;
+}
+.picture .pic2
+{
+	height: 600px;
+	width: 100%;
+	margin-top: 30px;
+    padding: 30px 40px;
+
+}
+.pic2 .ful
+{
+	height: 300px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.dived .decky
+{
+	height: 300px;
+	width: 100%;
+	margin-bottom: 30px;
+	margin-right: -35px;
+}
+.dived .sit
+{
+	height: 300px;
+	width: 100%;
+}
+.picture .pic3
+{
+	height: 800px;
+	width: 100%;
+	padding:0px 40px;	
+	margin-top: 470px;
+}
+.pic3 .stand
+{
+	height: 300px;
+	width: 100%;
+	margin-bottom: 40px;
+}
+.pic3 .dish
+{
+	height: 300px;
+	width: 100%;
+}
+.part5
+{
+	height:550px;
+	margin-top: 20px;
+	text-align: center;
+	font-size: 50px;
+	padding-top: 40px;
+	margin-bottom: 20px;
+}
+.part5 .date input
+{
+   height: 40px;
+   width: 450px;
+}
+.part5 .name input
+{
+   height: 40px;
+   width: 450px;
+ }
+.part5 .mail input
+{
+   height: 40px;
+   width: 450px;
+}
+.part5 .message input
+{
+   height: 40px;
+   width: 450px;
+}
+.part5 .booking input
+{
+   height: 40px;
+   width: 450px;
+}
+
+.part6 .part61
+{
+	height: 300px;
+	width: 100%;
+	margin-right: 30px;
+	margin-bottom: 30px;
+}
+.part6 .part62
+{
+	height: 300px;
+	width: 100%;
+	margin-right: 30px;	
+	margin-bottom: 30px;
+}
+.part6 .part63
+{
+	height: 300px;
+	width: 100%;
+	margin-right: 30px;	
+}
+.last .last1
+{
+	height: 1300px;
+	width:100%;
+	padding-bottom: 50px;
+	padding-right: 50px;
+	padding-left: 50px;
+}
+.last1 .row1
+{
+	height: 350px;
+	width: 100%;
+}
+.row1 .us 
+{
+  padding-top: 0px;
+  font-size: 30px;
+  padding-left: 20px;
+}
+.row1 .pragra
+{
+	padding-top: 10px;
+  font-size: 20px;
+  padding-left: 20px;
+}
+.row1 .social 
+{
+	padding-top: 10px;
+  font-size: 20px;
+  padding-left: 20px;
+}
+.last1 .row2
+{
+	height: 350px;
+	width: 100%;
+	margin-top:-150px ;
+}
+.row2 .info 
+{
+  padding-top: 10px;
+  font-size: 30px;
+  padding-left: 20px;
+}
+.row2 .l
+{
+	padding-top: 10px;
+  font-size: 25px;
+  padding-left: 20px;
+}
+.row2 .add
+{
+	padding-top: 10px;
+  font-size: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+
+}
+.row2 .phone1
+{
+  padding-top: 20px;
+  font-size: 25px;
+  padding-left: 20px;
+}
+.row2 .pnum
+{
+  padding-top: 10px;
+  font-size: 15px;
+  padding-left: 20px;
+}
+.row2 .com
+{
+  padding-top: 10px;
+  font-size: 15px;
+  padding-left: 20px;
+}
+.last1 .row3
+{
+	height: 350px;
+	width: 100%;
+	margin-top:-100px ;
+	margin-left: 20px;
+}
+.last1 .row4
+{
+	height: 350px;
+	width: 100%;
+	margin-top:-100px;
+	padding-left: 20px;
+}
+.last .last2
+{
+	height:1px;
+	width:80%;
+	background:white;
+	border: 1px solid white;
+		margin-left: 50px;
+}
+.last .last3
+{
+	height: 40px;
+	width:100%;
+	padding-left: 50px;
+	padding-top: 10px;
+	color: white;
+}
+}
+
+@media screen and (max-width: 650px)
+{
+.s3 .wed
+{
+	font-size: 25px;
+	width: 60%;
+	padding-left: 180px;
+}
+.s3 .wed1
+{
+	font-size: 15px;
+	width: 40%;
+	padding-top: 20px;
+	padding-left:0px;
+}
+}
+@media screen and (max-width: 590px)
+{
+.s3 .wed
+{
+	font-size: 25px;
+	width: 60%;
+	padding-left: 150px;
+
+}
+.s3 .wed1
+{
+	font-size: 15px;
+	width: 40%;
+	padding-top: 20px;
+	padding-left:0px;
+}
+}
+
+@media screen and (max-width: 580px)
+{
+.first .fix
+{
+	height: 300px;
+	width: 80px;
+   margin-left: 480px;
+   margin-top: 150px;
+}
+.first .content
+{
+	height: 60px;
+	width: 100%;
+	padding-top: 10px;
+	padding-left: 170px;
+}
+.content ul li a 
+{
+	text-decoration: none;
+	font-size: 12px;
+	margin-right: 10px;
+}
+.first .head
+{
+	font-size: 20px;
+	padding-top: 100px;
+}
+.first .prag
+{
+	font-size: 10px;
+	padding: 10px 20px;
+}
+.first .prag1
+{
+	font-size: 10px;
+	padding: 0px 20px;
+}
+}
+
+@media screen and (max-width: 550px)
+{
+	.first
+{
+	height: 500px;
+	width: 100%;
+}
+.first .fix
+{
+	height: 300px;
+	width: 80px;
+   margin-left: 360px;
+   margin-top: 150px;
+}
+.fix .a
+{
+	color:white;
+	font-size: 30px;
+	padding:20px 30px;
+	border-bottom: 1px solid white;
+}
+.fix .b
+{
+	color:white;
+	font-size: 20px;
+	padding:10px 30px;
+}
+.fix .b1
+{
+	color:white;
+	font-size: 15px;
+	padding:0px 25px;
+	padding-bottom: 10px;
+}
+.fix .download
+{
+	color:white;
+	font-size: 20px;
+		padding:10px 30px;
+}
+.fix .download1
+{
+	color:white;
+	font-size: 15px;
+		padding:0px 10px;
+			padding-bottom: 10px;
+}
+.fix .buy
+{
+	color:white;
+	font-size: 20px;
+		padding:10px 30px;
+}
+.fix .buy1
+{
+	color:white;
+	font-size: 15px;
+	padding:0px 30px;
+}
+.first .espousal
+{
+	height: 60px;
+	width: 100%;
+	font-size: 30px;
+	padding: 15px 70px;
+}
+.first .content
+{
+	height: 60px;
+	width: 100%;
+	padding-top: 10px;
+	padding-left: 150px;
+}
+.content ul li a 
+{
+	text-decoration: none;
+	font-size: 12px;
+	margin-right: 10px;
+}
+.first .head
+{
+	font-size: 25px;
+	padding-top: 100px;
+}
+.first .prag
+{
+	font-size: 15px;
+	padding: 10px 20px;
+}
+.first .prag1
+{
+	font-size: 15px;
+	padding: 0px 20px;
+}
+.second .s1 
+{
+	height: 350px;
+	width: 100%;
+}
+.second .s2 
+{
+	height: 450px;
+	width: 100%;
+	margin-top: 10px;
+}
+.third
+{
+	height:550px;
+	width: 100%;
+}
+.third .our
+{
+	font-size: 40px;
+	padding-top:20px;
+	padding-left: 0px;
+}
+.third .third1
+{
+	height: 150px;
+	width: 90%;
+	margin-top: -20px;
+	margin-left: 50px;
+}
+.third1 .photo
+{
+	height: 150px;
+	width: 100%;
+	margin-right: 20px;
+	font-size: 20px;	
+}
+.photo .ph1 
+{
+	height: 75px;
+	padding-top: 60px;
+}
+.photo .ph2
+{
+	height: 75px;
+	padding-top: 30px;
+}
+.photo .ph3 
+{
+	height: 75px;
+}
+.third1 .flower
+{
+	height: 150px;
+	width: 100%;
+	margin-right: 20px;
+	font-size: 20px;
+	
+}
+.flower .f1 
+{
+	height: 75px;
+	padding-top: 60px;
+}
+.flower .f2
+{
+	height: 75px;
+	padding-top: 30px;
+}
+.flower .f3
+{
+	height: 75px;
+}
+.third1 .car
+{
+	height: 150px;
+	width: 100%;
+	margin-right: 20px;
+	font-size: 20px;
+}
+.car .c1 
+{
+	height: 75px;
+	padding-top: 60px;
+}
+.car .c2
+{
+	height: 75px;
+	padding-top: 30px;
+}
+.car .c3
+{
+	height: 75px;
+}
+.picture .pic1
+{
+	height: 600px;
+	width: 100%;
+	padding:30px 40px;
+}
+.pic1 .hug
+{
+	height: 300px;
+	width: 100%;
+	margin-bottom: 30px;
+}
+.pic1 .ring
+{
+	height: 300px;
+	width: 100%;
+}
+.picture .pic2
+{
+	height: 600px;
+	width: 100%;
+	margin-top: 30px;
+    padding: 30px 40px;
+
+}
+.pic2 .ful
+{
+	height: 300px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.dived .decky
+{
+	height: 300px;
+	width: 100%;
+	margin-bottom: 30px;
+	margin-right: -35px;
+}
+.dived .sit
+{
+	height: 300px;
+	width: 100%;
+}
+.picture .pic3
+{
+	height: 800px;
+	width: 100%;
+	padding:0px 40px;	
+	margin-top: 470px;
+}
+.pic3 .stand
+{
+	height: 300px;
+	width: 100%;
+	margin-bottom: 40px;
+}
+.pic3 .dish
+{
+	height: 300px;
+	width: 100%;
+}
+.part5
+{
+	height:550px;
+	margin-top: 20px;
+	text-align: center;
+	font-size: 50px;
+	padding-top: 40px;
+	margin-bottom: 20px;
+}
+.part5 .date input
+{
+   height: 40px;
+   width: 450px;
+}
+.part5 .name input
+{
+   height: 40px;
+   width: 450px;
+ }
+.part5 .mail input
+{
+   height: 40px;
+   width: 450px;
+}
+.part5 .message input
+{
+   height: 40px;
+   width: 450px;
+}
+.part5 .booking input
+{
+   height: 40px;
+   width: 450px;
+}
+
+.part6 .part61
+{
+	height: 300px;
+	width: 100%;
+	margin-right: 30px;
+	margin-bottom: 30px;
+}
+.part6 .part62
+{
+	height: 300px;
+	width: 100%;
+	margin-right: 30px;	
+	margin-bottom: 30px;
+}
+.part6 .part63
+{
+	height: 300px;
+	width: 100%;
+	margin-right: 30px;	
+}
+.last .last1
+{
+	height: 1300px;
+	width:100%;
+	padding-bottom: 50px;
+	padding-right: 50px;
+	padding-left: 50px;
+}
+.last1 .row1
+{
+	height: 350px;
+	width: 100%;
+}
+.row1 .us 
+{
+  padding-top: 0px;
+  font-size: 30px;
+  padding-left: 20px;
+}
+.row1 .pragra
+{
+	padding-top: 10px;
+  font-size: 20px;
+  padding-left: 20px;
+}
+.row1 .social 
+{
+	padding-top: 10px;
+  font-size: 20px;
+  padding-left: 20px;
+}
+.last1 .row2
+{
+	height: 350px;
+	width: 100%;
+	margin-top:-150px ;
+}
+.row2 .info 
+{
+  padding-top: 10px;
+  font-size: 30px;
+  padding-left: 20px;
+}
+.row2 .l
+{
+	padding-top: 10px;
+  font-size: 25px;
+  padding-left: 20px;
+}
+.row2 .add
+{
+	padding-top: 10px;
+  font-size: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+
+}
+.row2 .phone1
+{
+  padding-top: 20px;
+  font-size: 25px;
+  padding-left: 20px;
+}
+.row2 .pnum
+{
+  padding-top: 10px;
+  font-size: 15px;
+  padding-left: 20px;
+}
+.row2 .com
+{
+  padding-top: 10px;
+  font-size: 15px;
+  padding-left: 20px;
+}
+.last1 .row3
+{
+	height: 350px;
+	width: 100%;
+	margin-top:-100px ;
+	margin-left: 20px;
+}
+.last1 .row4
+{
+	height: 350px;
+	width: 100%;
+	margin-top:-100px;
+	padding-left: 20px;
+}
+.last .last2
+{
+	height:1px;
+	width:80%;
+	background:white;
+	border: 1px solid white;
+		margin-left: 50px;
+}
+.last .last3
+{
+	height: 40px;
+	width:100%;
+	padding-left: 50px;
+	padding-top: 10px;
+	color: white;
+}
+}
+
+
+
+
+
+@media screen and (max-width: 480px)
+{
+.first .fix
+{
+	height: 300px;
+	width: 80px;
+   margin-left: 380px;
+   margin-top: 150px;
+}
+.first .content
+{
+	height: 60px;
+	width: 100%;
+	padding-top: 10px;
+	padding-left: 70px;
+}
+.content ul li a 
+{
+	text-decoration: none;
+	font-size: 12px;
+	margin-right: 10px;
+}
+.first .head
+{
+	font-size: 20px;
+	padding-top: 100px;
+}
+.first .prag
+{
+	font-size: 8px;
+	padding: 10px 20px;
+}
+.first .prag1
+{
+	font-size: 8px;
+	padding: 0px 20px;
+}
+.s3 .wed
+{
+	font-size: 22px;
+	width: 60%;
+	padding-left: 100px;
+
+}
+.wtos
+{   
+	font-size: 40px;
+	text-align: center;
+	margin-top: 20px;
+}
+.last .last3
+{
+	height: 40px;
+	width:100%;
+	padding-left: 50px;
+	padding-top: 10px;
+	color: white;
+	font-size: 10px;
+}
+}

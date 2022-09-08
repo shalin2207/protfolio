@@ -1,0 +1,507 @@
+@media screen and (max-width: 978px)
+{
+.h .end
+{
+height: 35px;
+width: 100%;
+background:blue;
+}
+.h .space
+{
+height: 35px;
+width: 40%;
+background: gray;
+}
+.h .c
+{
+height: 35px;
+width: 60%;
+background:gray;
+padding-left: 100px;
+}
+.main .logo
+{
+height: 100px;
+width:50%;
+}
+.main .search
+{
+height: 100px;
+width: 50%;
+padding-left: 10px;
+}
+.manu
+{
+height: 50px;
+width: 100%;
+background:darkgray;
+padding-left: 20px;
+}
+.manu ul li a
+{
+height: 40px;
+width: 100%;
+font-size: 12px;
+}
+.image
+{
+height: 200px;
+width: 100%;
+}
+.f1
+{
+height: 50px;
+width: 100%;
+}
+.f1 .filter
+{
+font-size: 10px;
+padding-left: 20px;
+padding-top: 35px;
+}
+.f1 .new
+{
+font-size: 20px;
+    padding-left: 100px;
+    padding-top: 25px;
+}
+.f1 .number
+{
+font-size: 10px;
+}
+.f1 .by
+{
+font-size: 13px;
+padding-left: 25px;
+ padding-top: 30px;
+}
+.f1 .new1
+{
+font-size: 10px;
+padding-left: 10px;
+}
+.f1 .simbole
+{
+font-size: 10px;
+}
+.list .gender
+{
+height:800px;
+width:25%;
+background-color: coral;
+
+}
+.list .picture
+{
+height:400px;
+width:75%;
+}
+.picture .p1
+{
+height: 80px;
+width: 100%
+}
+.picture .p2
+{
+height: 50px;
+width: 100%;
+margin-left: 40px;
+margin-bottom: 10px;
+}
+ .p2 .p21
+{
+height: 40px;
+width:20%;
+}
+ .p2 .p22
+{
+height: 40px;
+width:20%;
+}
+ .p2 .p23
+{
+height: 40px;
+width:20%;
+}
+ .p2 .p24
+{
+height: 40px;
+width:20%;
+}
+.picture .p3
+{
+height: 500px;
+width: 100%
+padding:10px 0px;
+}
+.p3 .p31
+{
+height: 450px;
+width: 45%;
+margin-right: 20px;
+}
+.p3 .p32
+{
+height: 450px;
+width: 45%;
+}
+.p4 .p41
+{
+height:80px;
+width: 50%;
+}
+.p41 .p14
+{
+font-size: 25px;
+    padding-left: 70px;
+}
+.p41 .p15
+{
+    padding-left: 70px;
+ }
+.p4 .p42
+{
+height:80px;
+width: 50%;
+}
+.p42 .p24
+{
+font-size: 25px;
+}
+.p5 .p51
+{
+  height: 50px;
+  width: 20%;
+  margin-right: 10px;
+  font-size: 15px;
+}
+.p5 .p52
+{
+ height: 50px;
+  width: 20%;
+   margin-right: 50px;
+   font-size: 15px;
+}
+.p5 .p53
+{
+  height: 50px;
+  width: 20%;
+  margin-right: 10px;
+  font-size: 15px;
+}
+.p5 .p54
+{
+ height: 50px;
+  width: 20%;
+  margin-right: 0px;
+  font-size: 15px;
+}
+.picture3 .p61
+{
+height: 400px;
+width: 33.33%;
+}
+.picture3 .p62
+{
+height: 400px;
+width: 33.33%;
+}
+.picture3 .p63
+{
+height: 400px;
+width: 33.33%;
+}
+.picture4 .sw
+{
+  height: 500px;
+width: 48%;
+margin-right: 20px;
+   padding-top: 120px;
+font-size: 25px;  
+}
+.picture4 .sm
+{
+height: 500px;
+width: 48%;
+padding-top: 120px;
+    font-size: 25px;  
+}
+.brands
+{
+height: 350px;
+width: 100%;
+margin-bottom: 20px;
+margin-left: 50px;
+}
+.brands .leap
+{
+height: 350px;
+width: 30%;
+
+margin-right: 10px;
+margin-left: 40px;
+}
+.brands .fortune
+{
+height: 350px;
+width: 30%;
+
+margin-right: 10px;
+}
+.brands .color
+{
+height: 350px;
+width: 30%;
+}
+.freeship
+{
+height: 50px;
+width: 100%;
+text-align: center;
+font-size: 15px;
+color: white;
+line-height: 80px;
+padding-left: 100px;
+margin-top: 50px;
+}
+
+.freeship .above
+{
+height: 80px;
+width: 28%;
+background: red;
+margin-right:  7px;
+   
+}
+.freeship .pickup
+{
+height: 80px;
+width: 28%;
+background: red;
+margin-right: 7px;
+}
+.freeship .cod
+{
+height: 80px;
+width: 28%;
+background: red;
+}
+ .last
+{
+height: 400px;
+background: lightgray;
+
+}
+.sw  pre
+{  
+height: 50px;
+width: 150px;
+ margin-left: 120px;
+ margin-top: 5px;
+}
+
+.sm  pre
+{  
+height: 50px;
+width: 150px;
+ margin-left: 150px;
+ margin-top: 5px;
+}
+}
+
+
+
+@media screen and (max-width: 578px)
+{
+.h .end
+{
+height: 35px;
+width: 100%;
+background:coral;
+
+}
+.h .space
+{
+height: 35px;
+width: 30%;
+background: lightgreen;
+}
+.h .c
+{
+height: 35px;
+width: 70%;
+background:lightgreen;
+  padding-left: 1px;
+}
+.main .logo
+{
+height: 100px;
+width:50%;
+}
+.main .search
+{
+height: 100px;
+width: 50%;
+}
+.manu ul li a
+{
+height: 40px;
+width: 100%;
+font-size: 10px;
+
+}
+.manu
+{
+height: 40px;
+width: 100%;
+background:white;
+padding-left: 10px;
+}
+.manu ul li a
+{
+height: 40px;
+width: 100%;
+font-size: 10px;
+ 
+}
+.image
+{
+height: 200px;
+width: 100%;
+}
+.f1
+{
+height: 50px;
+width: 100%;
+}
+.f1 .filter
+{
+font-size: 10px;
+padding-left: 20px;
+padding-top: 35px;
+}
+.f1 .new
+{
+font-size: 15px;
+    padding-left: 30px;
+    padding-top: 30px;
+}
+.f1 .number
+{
+font-size: 10px;
+padding-left: 10px;
+}
+.f1 .by
+{
+font-size: 9px;
+ padding-top: 35px;
+ padding-left: 0px;
+}
+.f1 .new1
+{
+font-size: 8px;
+padding-left:5px;
+}
+.f1 .simbole
+{
+font-size: 2px;
+}
+.list .gender
+{
+height:800px;
+width:100%;
+background-color: coral;
+}
+.gender .g1
+{
+padding-left: 150px;
+}
+.gender .g2
+{  
+padding-left: 120px;
+}
+.list .picture
+{
+height:400px;
+width:100%;
+}
+.picture .p1
+{
+height: 70px;
+width: 100%;
+font-size:25px;
+margin-bottom: 20px;
+}
+.picture .p2
+{
+height: 50px;
+width: 100%;
+margin-left: 20px;
+}
+.p2 .p21
+{
+height: 40px;
+width:20%;
+font-size: 10px;
+}
+ .p2 .p22
+{
+height: 40px;
+width:20%;
+font-size: 10px;
+}
+ .p2 .p23
+{
+height: 40px;
+width:20%;
+font-size: 10px;
+}
+ .p2 .p24
+{
+height: 40px;
+width:20%;
+font-size: 10px;
+}
+.picture .p3
+{
+height: 500px;
+width: 100%;
+}
+.p3 .p31
+{
+height: 450px;
+width: 100%;
+margin-bottom: 30px;
+}
+.p3 .p32
+{
+height: 450px;
+width: 100%;
+margin-bottom: 30px;
+}
+.p4 .p41
+{
+height:80px;
+width: 100%;
+
+}
+.p41 .p14
+{
+font-size: 25px;
+    padding-left: 70px;
+}
+.p41 .p15
+{
+    padding-left: 70px;
+ }
+.p4 .p42
+{
+height:80px;
+width: 100%;
+
+}
+.p42 .p24
+{
+font-size: 25px;
+}
+}
